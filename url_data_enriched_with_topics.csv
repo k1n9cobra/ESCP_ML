@@ -1,0 +1,995 @@
+,url_cleaned,topic_percentage,topic
+5,"['premium', 'lefigaro']",0.5770249366760254,emploi/finance
+6,"['cuisin', 'journaldesfemm', 'recett', 'dessert']",0.5388911366462708,emploi/finance
+7,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'bordeaux', 'aujourdhui']",0.8329801559448242,emploi/finance
+8,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'chinoi', 'chien', 'jour']",0.8329984545707703,emploi/finance
+9,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'chinoi', 'chien', 'demain']",0.5119714140892029,santé/symptomes
+10,"['tvmag', 'lefigaro', 'programm', 'soir']",0.5818686485290527,emploi/finance
+11,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'zodiaqu', 'cancer', 'jour']",0.721065104007721,météo
+12,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'chinoi']",0.895666778087616,météo
+13,"['commentcamarch', 'voir', 'factur', 'free', 'compt']",0.6893625259399414,Trintignan (acteur)
+14,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'zodiaqu', 'cancer', 'demain']",0.8608311414718628,Trintignan (acteur)
+15,"['lefigaro', 'vox', 'societ', 'artfig', 'mathieu', 'bock', 'cote', 'nouvel', 'censur', 'extrem', 'gauch', 'racialist']",0.7213200330734253,météo
+16,"['lefigaro', 'conjonctur', 'artfig', 'negoci', 'tendu', 'remuner', 'fonctionnair', 'lundi']",0.8806529641151428,gossip
+17,"['droit', 'financ', 'commentcamarch', 'aven', 'contrat', 'travail', 'refu', 'droit', 'salari']",0.8329084515571594,Trintignan (acteur)
+18,"['viadeo', 'network', 'request']",0.5814319849014282,cuisine
+19,"['cadremploi', 'emploi', 'offr']",0.8805058002471924,Trintignan (acteur)
+20,"['cuisin', 'journaldesfemm']",0.8318628668785095,Trintignan (acteur)
+21,"['cuisin', 'journaldesfemm', 'recett', 'pate', 'crepe']",0.7212811708450317,gossip
+22,"['lefigaro', 'intern', 'artfig', 'etat', 'uni', 'train', 'vie', 'dispendieux', 'paul', 'manafort', 'devant', 'jure']",0.4755857586860657,emploi/finance
+23,"['commentcamarch', 'forum', 'affich', 'alert', 'siren', 'mairi']",0.5825166702270508,gossip
+24,"['lefigaro', 'musiqu', 'artfig', 'sanglant', 'bagarr', 'entr', 'rappeur', 'booba', 'kaari', 'aeroport', 'orli']",0.7221312522888184,emploi/finance
+25,"['droit', 'financ', 'commentcamarch', 'loi', 'alur', 'nouvel', 'mesur']",0.5815554857254028,météo
+26,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'natasha', 'pier']",0.7211000323295593,météo
+27,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'toni', 'bullimor']",0.8319254517555237,gossip
+28,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'booba', 'kaari']",0.8320391774177551,cuisine
+29,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'charlen', 'monaco', 'adriana', 'karembeu']",0.7908105850219727,santé/symptomes
+30,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'brooklyn', 'beckham']",0.8599574565887451,emploi/finance
+31,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'romeo', 'oscar', 'fil', 'sylvi', 'tellier']",0.8803178071975708,gossip
+32,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'maril', 'berri']",0.8803153038024902,gossip
+33,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'ev', 'ang']",0.8952068090438843,santé/symptomes
+34,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'britnei', 'spear']",0.8803185820579529,gossip
+35,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'celin', 'dion']",0.8803102374076843,gossip
+36,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'kylian', 'mbapp']",0.8803262710571289,gossip
+37,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'lauri', 'cholewa']",0.880324125289917,gossip
+38,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'emmanuel', 'brigitt', 'macron']",0.8803038597106934,gossip
+39,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star']",0.8803234696388245,gossip
+40,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'eva', 'longoria']",0.8803011775016785,gossip
+41,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'kim', 'kardashian']",0.8803083896636963,gossip
+42,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'florent', 'pagni']",0.8803192973136902,gossip
+43,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'demi', 'lovato']",0.895325243473053,gossip
+44,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'mila', 'kuni', 'ashton', 'kutcher']",0.8803245425224304,gossip
+45,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'harri', 'style']",0.8803262114524841,gossip
+46,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'laurent', 'ournac']",0.880325973033905,gossip
+47,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'robin', 'william']",0.8803238868713379,gossip
+48,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'carla', 'bruni', 'sarkozi', 'nicola', 'sarkozi']",0.8803196549415588,gossip
+49,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'natasha', 'pier']",0.880307674407959,gossip
+50,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'camil', 'gottlieb']",0.8803131580352783,gossip
+51,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'luca', 'hernandez']",0.8952043652534485,gossip
+52,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'kate', 'moss', 'naomi', 'campbel']",0.8803077340126038,gossip
+53,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'ayem', 'nour']",0.8803032636642456,gossip
+54,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'bob', 'sinclar']",0.8803250193595886,gossip
+55,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'estel', 'lefebur', 'emma', 'smet']",0.8803262114524841,gossip
+56,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'lauri', 'thilleman']",0.8803033232688904,gossip
+57,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'robert', 'pattinson', 'suki', 'waterhous']",0.8803249597549438,gossip
+58,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'rachel', 'legrain', 'trapani']",0.8803256154060364,gossip
+59,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'maxim', 'nucci']",0.8803234696388245,gossip
+60,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'clara', 'morgan']",0.8803187012672424,gossip
+61,"['droit', 'financ', 'commentcamarch', 'retard', 'salair', 'vo', 'recour']",0.8803250193595886,gossip
+62,"['immobili', 'lefigaro', 'annonc', 'resultat', 'annonc']",0.8803225755691528,gossip
+63,"['immobili', 'lefigaro', 'annonc', 'perso', 'alert']",0.8803250789642334,gossip
+64,"['lefigaro', 'cinema', 'artfig', 'mission', 'imposs', 'ladi', 'mario', 'film', 'voir', 'evit', 'cett', 'semain']",0.8803216814994812,gossip
+65,"['lefigaro', 'actualit', 'franc', 'artfig', 'benalla', 'regl', 'compt', 'servic', 'securit', 'presid']",0.8803062438964844,gossip
+66,"['lefigaro', 'vox', 'politiqu', 'artfig', 'natacha', 'poloni', 'viennent', 'chercher']",0.45607346296310425,emploi/finance
+67,"['lefigaro', 'actualit', 'franc', 'artfig', 'affair', 'benalla', 'cabinet', 'minister', 'interieur', 'auditionn', 'senat']",0.40399131178855896,Trintignan (acteur)
+68,"['lefigaro', 'politiqu', 'artfig', 'affair', 'benalla', 'macron', 'rumin', 'vengeanc']",0.4988853633403778,Trintignan (acteur)
+69,"['lefigaro', 'conso', 'artfig', 'voitur', 'neuv', 'plu', 'chere', 'mond', 'cout', 'million', 'euro']",0.8320503234863281,cuisine
+70,"['lefigaro', 'flash', 'actu']",0.8599437475204468,météo
+71,"['lefigaro', 'decideur', 'manag', 'artfig', 'contraint', 'rester', 'connect', 'salari', 'dedommag', 'plu', 'euro']",0.4791259467601776,gossip
+72,"['lefigaro', 'intern', 'artfig', 'etat', 'uni', 'quiet', 'ski', 'programm', 'espionn', 'passag', 'avion']",0.860011875629425,météo
+73,['lefigaro'],0.6472371220588684,gossip
+74,"['lefigaro', 'social', 'artfig', 'chomagel', 'gouvern', 'pourrait', 'attaqu', 'indemnis', 'cadr']",0.4545240104198456,emploi/finance
+75,"['lefigaro', 'actualit', 'franc', 'artfig', 'mariag', 'forc', 'elu', 'famil', 'devant', 'tribun']",0.7205676436424255,cuisine
+76,"['lefigaro', 'musiqu', 'artfig', 'quinz', 'an', 'apr', 'mort', 'mari', 'trintign', 'imposs', 'retour', 'bertrand', 'cantat']",0.8601915836334229,santé/symptomes
+77,"['lefigaro', 'conjonctur', 'artfig', 'pourquoi', 'haut', 'fonctionnair', 'craignent', 'afflux', 'salari', 'prive']",0.831906795501709,gossip
+78,"['lefigaro', 'scienc', 'artfig', 'pourquoi', 'chaleur', 'criminel', 'silencieux']",0.1666666716337204,Trintignan (acteur)
+79,"['lefigaro', 'voyag']",0.5799399614334106,gossip
+80,"['client', 'lefigaro', 'webloggialefigaro', 'espacecli', 'sedesinscrir']",0.508293628692627,Trintignan (acteur)
+81,"['client', 'lefigaro', 'webloggialefigaro', 'espacecli', 'validerdesinscript']",0.9066390991210938,Trintignan (acteur)
+82,"['linternaut', 'actualit', 'educ', 'resultat', 'brevet', 'academi', 'academi', 'tou', 'resultat']",0.8319259285926819,gossip
+83,"['resultat', 'brevet', 'linternaut', 'academi', 'creteil']",0.8318249583244324,santé/symptomes
+84,"['cuisin', 'journaldesfemm', 'recett', 'salad', 'riz']",0.5826863050460815,cuisine
+85,"['lefigaro', 'conjonctur', 'artfig', 'francai', 'seul', 'occidentaux', 'pa', 'exager', 'ampleur', 'immigr', 'musulman']",0.1666666716337204,Trintignan (acteur)
+86,"['lefigaro', 'politiqu', 'scan', 'artfig', 'avant', 'vacanc', 'macron', 'invit', 'ministr', 'diner', 'convivi', 'elyse']",0.1666666716337204,Trintignan (acteur)
+87,"['lefigaro', 'conso', 'artfig', 'prix', 'gaz', 'encadr', 'loyer', 'arm', 'chass', 'chang', 'aout']",0.8322229981422424,météo
+88,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'laurenc', 'boccolini']",0.7199999690055847,météo
+89,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'margaux', 'thibault']",0.7210826277732849,météo
+90,"['linternaut', 'voyag', 'transport', 'passager', 'urin', 'dan', 'couloir', 'avion', 'video']",0.7905242443084717,gossip
+91,"['lefigaro', 'actualit', 'franc', 'artfig', 'lign', 'metro', 'parisien', 'bloque', 'passag', 'perdent', 'calm']",0.8329371213912964,gossip
+92,"['journaldunet', 'patrimoin', 'guid', 'financ', 'personnel', 'alloc', 'rentre', 'scolair', 'quand', 'allez', 'vou', 'recevoir']",0.7208675146102905,Trintignan (acteur)
+93,['cadremploi'],0.8803216814994812,gossip
+94,"['cadremploi', 'emploi', 'list', 'offr']",0.8803220987319946,gossip
+95,"['linternaut', 'actualit', 'societ', 'sold', 'date', 'fin', 'sold', 'selon', 'votr', 'depart']",0.832760214805603,cuisine
+96,"['premium', 'lefigaro', 'actualit', 'franc']",0.7898279428482056,Trintignan (acteur)
+97,"['madam', 'lefigaro', 'celebrit', 'juli', 'gayet', 'revel', 'attire', 'chez', 'francoi', 'holland']",0.5131593942642212,santé/symptomes
+98,"['sant', 'medecin', 'journaldesfemm', 'malais', 'vagal', 'caus', 'symptom', 'traitement']",0.5831219553947449,emploi/finance
+99,"['droit', 'financ', 'commentcamarch', 'date', 'versement', 'ar', 'rentre', 'scolair']",0.7914376854896545,emploi/finance
+100,"['lefigaro', 'scienc', 'artfig', 'ver', 'congel', 'pendant', 'an', 'dan', 'permafrost', 'revenu', 'vie']",0.859864354133606,santé/symptomes
+101,"['tvmag', 'lefigaro', 'programm', 'zone', 'interdit', 'enquet', 'foli', 'camp', 'car', 'cedfaa']",0.7900974154472351,Trintignan (acteur)
+102,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'marseil', 'aujourdhui']",0.4594908356666565,météo
+103,"['sport', 'lefigaro', 'tenni', 'coup', 'davi', 'actualit', 'noah', 'repond', 'pair', 'croi', 'pa', 'compri', 'esprit', 'coup', 'davi']",0.8605908155441284,santé/symptomes
+104,['viadeo'],0.5877602100372314,emploi/finance
+105,"['linternaut', 'page', 'jaun']",0.8604152798652649,santé/symptomes
+106,"['commentcamarch', 'forum', 'affich', 'comment', 'reduir', 'taill', 'imag', 'jpeg']",0.49187374114990234,météo
+107,"['linternaut', 'cinema', 'cinema', 'gaumont', 'labeg', 'shtml']",0.8956668972969055,météo
+108,"['lefigaro', 'musiqu', 'artfig', 'kaari', 'rappeur', 'foi', 'populair', 'controvers', 'battu', 'booba']",0.8597665429115295,santé/symptomes
+109,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'aujourdhui']",0.5825207829475403,gossip
+110,"['madam', 'lefigaro', 'bien', 'etr', 'coupl', 'passionnel', 'forcement', 'voue', 'lechec', 'passion', 'amoureus', 'destructric']",0.5812245607376099,cuisine
+111,['commentcamarch'],0.8324922919273376,cuisine
+112,"['commentcamarch', 'download', 'telecharg', 'window', 'movi', 'maker']",0.8327202200889587,santé/symptomes
+113,"['even', 'lefigaro', 'citat', 'mot']",0.7908042073249817,santé/symptomes
+114,"['commentcamarch', 'download', 'montag', 'video']",0.8956502079963684,météo
+115,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'montpelli', 'aujourdhui']",0.7908020615577698,gossip
+116,"['lachainemeteo', 'alert', 'meteo', 'communiqu', 'special', 'vigil', 'meteo']",0.5813695192337036,cuisine
+117,"['droit', 'financ', 'commentcamarch', 'content', 'titr', 'executoir', 'saisi']",0.8329930901527405,cuisine
+118,"['cuisin', 'journaldesfemm', 'recett', 'tart', 'pomm']",0.5823317170143127,gossip
+119,"['deco', 'jardin', 'journaldesfemm', 'forum', 'affich', 'comment', 'enlev', 'herb', 'poussent', 'gravier', 'autour', 'maison']",0.7910681366920471,cuisine
+120,"['resultat', 'bac', 'linternaut', 'academi', 'cors']",0.8956661224365234,météo
+121,"['madam', 'lefigaro', 'astro', 'horoscop', 'quotidien', 'taureau']",0.5724341869354248,météo
+122,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'zodiaqu', 'taureau', 'jour']",0.832984983921051,emploi/finance
+123,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'toujour', 'journal', 'femm']",0.8313734531402588,cuisine
+124,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'laurent', 'ruquier']",0.8599439263343811,emploi/finance
+125,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'pierr', 'mene']",0.7199776768684387,météo
+126,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'camilla', 'parker']",0.791351854801178,gossip
+127,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'lauri', 'thilleman']",0.8607531189918518,gossip
+128,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'christin', 'queen']",0.8952726721763611,gossip
+129,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'jamel', 'debbouz']",0.895184338092804,gossip
+130,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'alexandra', 'rosenfeld']",0.8803216218948364,gossip
+131,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'juli', 'gayet']",0.8803073763847351,gossip
+132,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'francoi', 'holland']",0.8803263902664185,gossip
+133,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'demi', 'lovato']",0.8803144693374634,gossip
+134,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'meghan', 'markl']",0.880314826965332,gossip
+135,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'laurent', 'ruquier']",0.880320131778717,gossip
+136,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'ayem']",0.8803120851516724,gossip
+137,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'celin', 'dion', 'jumeaux']",0.880326509475708,gossip
+138,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'flavi', 'flament']",0.8803218007087708,gossip
+139,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'jean', 'michel', 'blanquer']",0.8803144693374634,gossip
+140,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'michel', 'william', 'destini', 'child']",0.8952017426490784,gossip
+141,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'thoma', 'markl']",0.8803179264068604,gossip
+142,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'deni', 'brogniart']",0.8803244829177856,gossip
+143,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'westwick']",0.8803050518035889,gossip
+144,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'elodi', 'frege']",0.8803206086158752,gossip
+145,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'princ', 'georg']",0.8803111910820007,gossip
+146,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'lola', 'maroi']",0.8803054094314575,gossip
+147,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'laetitia', 'milot']",0.8803002238273621,gossip
+148,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'laeticia', 'hallydai', 'alessandra', 'sublet']",0.8803153038024902,gossip
+149,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'sheeran']",0.88032466173172,gossip
+150,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'chloe', 'jouannet']",0.8803169131278992,gossip
+151,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'nicola', 'sarkozi']",0.8803241848945618,gossip
+152,"['cuisin', 'journaldesfemm']",0.8803065419197083,gossip
+153,['journaldesfemm'],0.880319356918335,gossip
+154,"['sport', 'lefigaro', 'scan', 'sport', 'artfig', 'coler', 'noir', 'benoit', 'pair', 'pass', 'nerf', 'troi', 'raquett']",0.8803257942199707,gossip
+155,"['sport', 'lefigaro', 'footbal', 'transfert', 'actualit', 'mercato', 'direct', 'pogba', 'courtis', 'abid', 'barca']",0.8803255558013916,gossip
+156,"['sport', 'lefigaro', 'footbal', 'actualit', 'samir', 'nasri', 'suspendu', 'jusqu', 'janvier']",0.88031405210495,gossip
+157,"['droit', 'financ', 'commentcamarch']",0.5815263390541077,météo
+158,"['keljob', 'articl', 'exempl', 'mail', 'relanc', 'convaincu', 'recruteur']",0.1666666716337204,Trintignan (acteur)
+159,"['commentcamarch', 'comment', 'fair', 'captur', 'ecran']",0.5951088070869446,santé/symptomes
+160,"['droit', 'financ', 'commentcamarch', 'alloc', 'familial', 'montant', 'condit']",0.7904155850410461,météo
+161,"['droit', 'financ', 'commentcamarch', 'major', 'alloc', 'familial', 'ag', 'enfant']",0.7904110550880432,météo
+162,"['journaldunet', 'manag', 'guid', 'manag', 'ruptur', 'conventionnel']",0.7910950183868408,emploi/finance
+163,"['lefigaro', 'societ', 'artfig', 'air', 'franc', 'verit', 'salair', 'personnel', 'navig']",0.8325183987617493,santé/symptomes
+164,"['lefigaro', 'societ', 'qcmwww', 'compagni', 'air', 'franc', 'peut', 'ell', 'disparaitr']",0.7903916239738464,cuisine
+165,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'iri', 'mittenaer']",0.8807331919670105,emploi/finance
+166,"['journaldesfemm', 'peopl', 'magazin', 'week', 'end', 'chez', 'star', 'clara', 'morgan']",0.8608317971229553,emploi/finance
+167,"['lefigaro', 'musiqu', 'artfig', 'pronost', 'inquiet', 'demi', 'lovato', 'sean', 'paul', 'blame', 'industri', 'musical']",0.8324424028396606,santé/symptomes
+168,"['viadeo', 'group', 'detaildiscuss']",0.859574556350708,santé/symptomes
+169,"['lefigaro', 'politiqu', 'scan', 'artfig', 'avant', 'vacanc', 'deput', 'votent', 'troi', 'loi', 'jour']",0.8319956660270691,Trintignan (acteur)
+170,"['commentcamarch', 'forum', 'affich', 'connaitr', 'expediteur', 'lettr', 'recommande']",0.9069867730140686,gossip
+171,"['droit', 'financ', 'commentcamarch', 'forum', 'affich', 'besoin', 'aid', 'avi', 'passag', 'facteur']",0.8803250789642334,gossip
+172,"['sant', 'lefigaro', 'articl', 'autism', 'reconnaitr', 'asperg', 'pa', 'simpl']",0.7204952836036682,Trintignan (acteur)
+173,"['cadremploi', 'editori', 'conseil', 'conseil', 'carrier', 'articl', 'episod', 'bon', 'defaut', 'entretien', 'dembauch']",0.5825016498565674,gossip
+174,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'lyon', 'aujourdhui']",0.860711932182312,gossip
+175,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'limog', 'aujourdhui']",0.4686269462108612,emploi/finance
+176,"['viadeo', 'visibl']",0.6521236300468445,cuisine
+177,"['viadeo', 'set', 'account']",0.7899249792098999,gossip
+178,"['viadeo', 'notif']",0.8806278109550476,emploi/finance
+179,"['viadeo', 'job', 'center']",0.8956702947616577,météo
+180,"['secur', 'viadeo', 'signin']",0.8956703543663025,météo
+181,"['linternaut', 'cinema', 'cinema', 'decavis', 'shtml']",0.5825046896934509,gossip
+182,"['journaldunet', 'manag', 'guid', 'manag', 'lettr', 'candidatur', 'spontane']",0.5824635028839111,gossip
+183,"['keljob', 'articl', 'exempl', 'lettr', 'motiv', 'candidatur', 'spontane']",0.5825190544128418,gossip
+184,"['keljob', 'recherch']",0.58250492811203,gossip
+185,"['lefigaro', 'vox', 'economi', 'artfig', 'ameriqu', 'trump', 'croissanc']",0.582495927810669,gossip
+186,"['actu', 'lachainemeteo', 'actualit', 'meteo', 'tendanc', 'meteo', 'jusquau', 'aout']",0.8327057361602783,santé/symptomes
+187,"['codespromo', 'lefigaro', 'code', 'promo', 'netflix']",0.880159854888916,emploi/finance
+188,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'demain']",0.8802040219306946,emploi/finance
+189,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'lundi']",0.5824739933013916,santé/symptomes
+190,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'mardi']",0.789951503276825,cuisine
+191,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'samedi']",0.8602627515792847,météo
+192,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'dimanch']",0.7914099097251892,météo
+193,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'vendredi']",0.89527428150177,météo
+194,"['lefigaro', 'economi']",0.8807402849197388,météo
+195,"['sport', 'lefigaro']",0.8807355761528015,météo
+196,"['lefigaro', 'politiqu', 'scan']",0.8807364106178284,météo
+197,"['sport', 'lefigaro', 'integral']",0.880737841129303,météo
+198,"['madam', 'lefigaro', 'mariag', 'comment', 'organis', 'ceremoni', 'laiqu']",0.880737841129303,météo
+199,"['journaldesfemm', 'mode', 'lutec']",0.1666666716337204,Trintignan (acteur)
+200,"['lachainemeteo', 'meteo', 'franc', 'pai', 'previs', 'meteo', 'franc', 'aujourdhui']",0.5822165608406067,santé/symptomes
+201,"['lachainemeteo', 'meteo', 'franc', 'pai', 'previs', 'meteo', 'franc', 'demain']",0.7219989895820618,gossip
+202,"['linternaut', 'voyag', 'pratiqu', 'vacanc', 'scolair', 'date', 'calendri', 'officiel', 'anne']",0.5822167992591858,santé/symptomes
+203,"['lachainemeteo', 'meteo', 'franc', 'pai', 'previs', 'meteo', 'franc', 'vendredi']",0.7189150452613831,gossip
+204,"['droit', 'financ', 'commentcamarch', 'content', 'imposit', 'indemnit', 'licenci']",0.1666666716337204,Trintignan (acteur)
+205,"['droit', 'financ', 'commentcamarch', 'content', 'indemnit', 'licenci', 'calcul', 'montant']",0.9072088003158569,météo
+206,"['cadremploi', 'editori', 'conseil', 'conseil', 'candidatur', 'entretien', 'embauch', 'articl', 'question', 'plu', 'courant', 'entretien', 'dembauch']",0.906921923160553,météo
+207,"['cadremploi', 'editori', 'conseil', 'conseil', 'candidatur', 'entretien', 'embauch', 'articl', 'repons', 'question', 'pieg', 'entretien', 'embauch']",0.790097177028656,cuisine
+208,"['cadremploi', 'editori', 'conseil', 'conseil', 'candidatur', 'entretien', 'embauch', 'articl', 'entretien', 'embauch', 'repons', 'question', 'plu', 'courant']",0.8956088423728943,météo
+209,"['commentcamarch', 'forum', 'affich', 'combien']",0.8608725070953369,emploi/finance
+210,"['commentcamarch', 'forum', 'affich', 'quoi', 'correspond']",0.8956791162490845,emploi/finance
+211,"['programm', 'tvmag', 'lefigaro']",0.9301774501800537,emploi/finance
+212,"['sant', 'medecin', 'journaldesfemm', 'accid', 'vasculair', 'cerebr', 'avc', 'caus', 'symptom', 'traitement']",0.9302157163619995,emploi/finance
+213,"['sant', 'lefigaro', 'articl', 'avc', 'hemorragiqu', 'senti', 'explos', 'dan', 'tete']",0.9355478286743164,emploi/finance
+214,"['viadeo', 'messag', 'messagesrecu']",0.790985107421875,cuisine
+215,"['viadeo', 'signout']",0.7909744381904602,cuisine
+216,['viadeo'],0.7213137149810791,météo
+217,"['viadeo', 'messag', 'detailsmessagerecu']",0.8605939745903015,santé/symptomes
+218,"['journaldunet', 'patrimoin', 'guid', 'financ', 'personnel', 'prix', 'metaux']",0.7902514338493347,santé/symptomes
+219,"['immobili', 'lefigaro', 'articl', 'locat', 'appart', 'meubl', 'berci', 'rappel', 'regl', 'fiscal', 'social', 'effc', 'ecbf']",0.7214816212654114,météo
+220,"['droit', 'financ', 'commentcamarch', 'renouvel', 'cart', 'identit', 'perime', 'formalit', 'justificatif']",0.5825201272964478,gossip
+221,"['madam', 'lefigaro', 'recett', 'sauc', 'tomat', 'maison']",0.5825148820877075,gossip
+222,"['madam', 'lefigaro', 'celebrit', 'photo', 'brad', 'pitt', 'sosi', 'petit', 'ami', 'gwyneth', 'paltrow', 'angelina', 'joli', 'juliett', 'lewi']",0.7214887738227844,météo
+223,"['cuisin', 'journaldesfemm', 'recett', 'itali']",0.8600821495056152,santé/symptomes
+224,"['madam', 'lefigaro', 'celebrit', 'jeremi', 'meek', 'chloe', 'green', 'prisonni', 'sexi', 'lheritier', 'shop', 'enceint', 'attend', 'enfant']",0.370928019285202,emploi/finance
+225,"['even', 'lefigaro', 'citat']",0.8326473832130432,emploi/finance
+226,"['commentcamarch', 'forum', 'affich', 'voudrai', 'transfer', 'sm']",0.7901219129562378,météo
+227,"['lefigaro', 'flash', 'actu', 'filwww', 'homm', 'tomb', 'dan', 'coma', 'lor', 'gard', 'vue', 'commissariat', 'creteil']",0.7903011441230774,météo
+228,"['commentcamarch', 'forum', 'affich', 'comment', 'lire', 'fichier', 'eml']",0.7211008071899414,météo
+229,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'pomm', 'terr']",0.7890987992286682,météo
+230,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'charcuteri', 'sech']",0.1666666716337204,Trintignan (acteur)
+231,"['journaldesfemm', 'mode', 'magazin', 'comment', 'shabil', 'chaleur', 'canicul', 'look', 'inspir', 'habil', 'pendant', 'canicul']",0.7909865379333496,cuisine
+232,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'oeuf']",0.8323704600334167,cuisine
+233,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'rangement', 'frigo']",0.8324981331825256,cuisine
+234,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'confitur']",0.916452169418335,cuisine
+235,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'saint', 'malo', 'aujourdhui']",0.9071770310401917,cuisine
+236,"['sant', 'medecin', 'journaldesfemm', 'impetigo', 'contagion', 'traitement']",0.8591939806938171,emploi/finance
+237,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'touquet', 'pari', 'plage', 'aujourdhui']",0.9071787595748901,cuisine
+238,"['sport', 'lefigaro', 'tenni']",0.9164554476737976,cuisine
+239,"['cuisin', 'journaldesfemm', 'recett', 'gratin', 'courgett']",0.9071654081344604,cuisine
+240,"['commentcamarch', 'envoy', 'fichier', 'lourd', 'piec', 'joint', 'mail']",0.8956679105758667,météo
+241,"['commentcamarch', 'new', 'mise', 'jour', 'window', 'moin', 'penibl']",0.7905496954917908,santé/symptomes
+242,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'pari', 'aujourdhui']",0.9072477221488953,météo
+243,"['jeux', 'gratuit', 'jeu', 'rami', 'multijoueur']",0.5821945071220398,santé/symptomes
+244,"['jeux', 'gratuit']",0.790737509727478,cuisine
+245,"['commentcamarch', 'download', 'anti', 'spywar']",0.46686506271362305,santé/symptomes
+246,"['beaut', 'journaldesfemm', 'forum', 'affich', 'quel', 'ag', 'jeun', 'fill', 'peuvent', 'ell', 'epil']",0.6724034547805786,cuisine
+247,"['copainsdav', 'linternaut', 'login']",0.9072475433349609,météo
+248,"['linternaut', 'auto', 'conduit', 'autorout', 'quell', 'plu', 'chere', 'franc', 'superperipheriqu', 'parisien']",0.7913283705711365,cuisine
+249,"['commentcamarch', 'relier', 'internet', 'san', 'fil', 'wifi']",0.7217427492141724,cuisine
+250,"['linternaut', 'bricolag', 'guid', 'maison', 'jardin', 'lamp', 'anti', 'moustiqu', 'efficac']",0.7215283513069153,cuisine
+251,"['copainsdav', 'linternaut']",0.4820783734321594,Trintignan (acteur)
+252,"['droit', 'financ', 'commentcamarch', 'temp', 'travail', 'effectif', 'definit']",0.7214894890785217,cuisine
+253,"['jeux', 'gratuit', 'jeu', 'bubbl', 'bubbl', 'shooter']",0.492329478263855,météo
+254,"['journaldunet', 'manag', 'guid', 'manag', 'smic', 'montant', 'mensuel', 'taux', 'horair']",0.7912482023239136,cuisine
+255,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'carcassonn', 'aujourdhui']",0.831792414188385,santé/symptomes
+256,"['commentcamarch', 'forum', 'affich', 'gross', 'arnaqu', 'jecontact', 'site', 'rencontr', 'gratuit']",0.7215051651000977,cuisine
+257,"['droit', 'financ', 'commentcamarch', 'pension', 'alimentair', 'montant', 'barem', 'calcul']",0.568429172039032,emploi/finance
+258,"['sant', 'medecin', 'journaldesfemm', 'emphysem', 'pulmonair', 'symptom', 'traitement']",0.7913128733634949,cuisine
+259,"['lefigaro', 'scienc', 'artfig', 'eraout', 'jour', 'seul', 'planet', 'suffit', 'plu', 'humanit', 'vivr']",0.8600308299064636,emploi/finance
+260,"['droit', 'financ', 'commentcamarch', 'alloc', 'familial', 'module', 'plafond']",0.8956676125526428,météo
+261,"['droit', 'financ', 'commentcamarch', 'content', 'modif', 'horair', 'travail', 'salari']",0.8328856229782104,cuisine
+262,"['linternaut', 'televis', 'programm', 'tnt']",0.6663994193077087,emploi/finance
+263,"['hugolescargot', 'coloriag', 'mandala']",0.8326489925384521,santé/symptomes
+264,"['hugolescargot', 'coloriag', 'mandala', 'coloriag']",0.5354839563369751,santé/symptomes
+265,"['droit', 'financ', 'commentcamarch', 'codevi', 'ldd', 'plafond', 'taux', 'interet']",0.8329985737800598,emploi/finance
+266,"['sant', 'medecin', 'journaldesfemm', 'daflon', 'indic', 'posologi', 'effet', 'secondair']",0.4998016953468323,emploi/finance
+267,"['viadeo', 'question', 'repondr']",0.7900400161743164,météo
+268,"['journaldunet', 'patrimoin', 'guid', 'financ', 'personnel', 'avi', 'imposit']",0.1666666716337204,Trintignan (acteur)
+269,"['sant', 'medecin', 'journaldesfemm', 'piqur', 'puce', 'symptom', 'traitement', 'prevent']",0.1666666716337204,Trintignan (acteur)
+270,"['lefigaro', 'cultur', 'artfig', 'crible', 'dett', 'lucett', 'destouch', 'veuv', 'celin', 'met', 'maison', 'meudon', 'viager']",0.7910736799240112,emploi/finance
+271,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'herb', 'fraich']",0.7208501696586609,Trintignan (acteur)
+272,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'banan']",0.7217392325401306,gossip
+273,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'courgett']",0.8600671887397766,santé/symptomes
+274,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'avocat']",0.8326458930969238,santé/symptomes
+275,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo']",0.7192714810371399,gossip
+276,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'fruit', 'exotiqu']",0.9071658253669739,cuisine
+277,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'miel']",0.9071782231330872,cuisine
+278,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'tomat']",0.916479229927063,cuisine
+279,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'huil', 'vegetal']",0.9071718454360962,cuisine
+280,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'ail']",0.9071787595748901,cuisine
+281,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'oignon']",0.9071773886680603,cuisine
+282,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'pomm']",0.9071789383888245,cuisine
+283,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'agrum']",0.9071622490882874,cuisine
+284,"['droit', 'financ', 'commentcamarch', 'formul', 'politess', 'exempl', 'conseil']",0.9071783423423767,cuisine
+285,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'comment', 'sculpt', 'ell', 'corp']",0.9071779251098633,cuisine
+286,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'separe', 'apr', 'etr', 'devenu', 'miss', 'univ']",0.9071744084358215,cuisine
+287,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'vraie', 'sportiv']",0.9164502024650574,cuisine
+288,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer']",0.9071788787841797,cuisine
+289,"['linternaut', 'actualit']",0.8608292937278748,emploi/finance
+290,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'prepar', 'physiqu', 'miss', 'univ']",0.9398493766784668,gossip
+291,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'rapport', 'notoriet']",0.9441173672676086,gossip
+292,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'combien', 'gagn', 'ell']",0.9301518797874451,gossip
+293,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'regim', 'alimentair', 'protein']",0.9301518797874451,gossip
+294,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'vie', 'new', 'yorkais']",0.7196460366249084,santé/symptomes
+295,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'ell', 'souhaitait', 'devenir', 'chirurgien', 'dentist']",0.935534656047821,gossip
+296,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'ell', 'appri', 'etr', 'ais', 'dan', 'import', 'quell', 'situat']",0.9301422238349915,gossip
+297,"['lachainemeteo', 'meteo', 'portug', 'vill', 'previs', 'meteo', 'lisbonn', 'aujourdhui']",0.7529339790344238,gossip
+298,"['sant', 'medecin', 'journaldesfemm', 'hemiplegi', 'definit', 'caus', 'symptom']",0.9301534295082092,gossip
+299,"['lefigaro', 'langu', 'francais', 'actu', 'mot', 'artfig', 'non', 'frite', 'pa', 'belg']",0.6247451305389404,gossip
+300,"['linternaut', 'cinema', 'cinema', 'cineland', 'shtml']",0.748598039150238,gossip
+301,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'havr', 'aujourdhui']",0.9439194202423096,gossip
+302,"['codespromo', 'lefigaro', 'code', 'promo']",0.8807789087295532,météo
+303,"['droit', 'financ', 'commentcamarch', 'tutel', 'curatel', 'vent', 'bien', 'immobili']",0.8603630661964417,Trintignan (acteur)
+304,"['droit', 'financ', 'commentcamarch', 'montant', 'minimum', 'vieilless', 'aspa']",0.8802071809768677,gossip
+305,"['droit', 'financ', 'commentcamarch', 'content', 'inaptitud', 'travail', 'procedur', 'droit', 'salari']",0.8327223062515259,santé/symptomes
+306,"['viadeo', 'signout']",0.8956642746925354,météo
+307,"['viadeo', 'outil', 'npwd']",0.7914096713066101,météo
+308,"['viadeo', 'forgottenpassword']",0.44427797198295593,Trintignan (acteur)
+309,"['viadeo', 'request', 'pend']",0.8329837918281555,emploi/finance
+310,"['viadeo', 'signin']",0.5865442752838135,emploi/finance
+311,"['video', 'lefigaro', 'figaro', 'video', 'furieux', 'jean', 'lassal', 'quitt', 'hemicycl', 'apr', 'avoir', 'interrompu']",0.5825022459030151,gossip
+312,"['viadeo', 'job']",0.5824382901191711,gossip
+313,"['cuisin', 'journaldesfemm', 'recett', 'piqu', 'niqu']",0.5825000405311584,gossip
+314,"['cuisin', 'journaldesfemm', 'gastronomi', 'recett', 'piqu', 'niqu']",0.5825255513191223,gossip
+315,"['codespromo', 'lefigaro', 'code', 'promo', 'weight', 'watcher']",0.5824889540672302,gossip
+316,"['deco', 'journaldesfemm', 'design', 'editeur', 'design', 'franc', 'chanc']",0.7907347679138184,santé/symptomes
+317,"['commentcamarch', 'download', 'telecharg', 'excel', 'viewer']",0.5825030207633972,gossip
+318,"['lefigaro', 'actualit', 'franc', 'artfig', 'pari', 'situat', 'explos', 'migrant', 'port', 'chapel']",0.7210978269577026,météo
+319,"['cuisin', 'journaldesfemm', 'recett', 'tart', 'poir', 'amand']",0.7906922101974487,cuisine
+320,"['droit', 'financ', 'commentcamarch', 'barem', 'kilometriqu']",0.7914091348648071,météo
+321,"['lefigaro', 'conso', 'artfig', 'mcdonald', 'lot', 'salad', 'contamin', 'listeria', 'vendu', 'debut', 'juillet']",0.7202467322349548,Trintignan (acteur)
+322,"['linternaut', 'page', 'blanch']",0.7911885976791382,cuisine
+323,"['linternaut', 'auto', 'guid', 'pratiqu', 'auto', 'courroi', 'distribut', 'quand', 'changer']",0.8599743247032166,météo
+324,"['cadremploi', 'editori', 'conseil', 'droit', 'travail', 'articl', 'lettr', 'demand', 'ruptur', 'conventionnel']",0.508445143699646,météo
+325,"['linternaut', 'cinema', 'star', 'cinema', 'evolut', 'physiqu', 'catherin', 'deneuv', 'comment', 'ell', 'proteg', 'cheveux']",0.47973063588142395,emploi/finance
+326,"['lefigaro', 'intern', 'artfig', 'polemiqu', 'itali', 'navir', 'reconduit', 'migrant', 'jusqu', 'liby']",0.7208467125892639,Trintignan (acteur)
+327,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'routin', 'beaut']",0.7197799682617188,météo
+328,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'ell', 'chang', 'depui', 'elect']",0.8322426676750183,Trintignan (acteur)
+329,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'nouvel', 'animatric', 'star']",0.9067850112915039,emploi/finance
+330,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'ell', 'ador', 'manger']",0.8802986741065979,santé/symptomes
+331,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'ell', 'bat', 'acc', 'soin', 'medicaux', 'dentair']",0.7204307317733765,Trintignan (acteur)
+332,"['linternaut', 'televis', 'star', 'miss', 'franc', 'ninja', 'warrior', 'face', 'cache', 'iri', 'mittenaer', 'ell', 'reprendr', 'etud']",0.9301505088806152,gossip
+333,"['lefigaro', 'societ', 'artfig', 'ryanair', 'avion', 'peuvent', 'tre', 'bien', 'aller', 'ailleur', 'greve', 'persist', 'previent', 'leari']",0.7510217428207397,gossip
+334,"['lefigaro', 'actualit', 'franc', 'artfig', 'canicul', 'retour', 'majeur', 'parti', 'franc']",0.9400572776794434,gossip
+335,"['lefigaro', 'scienc', 'artfig', 'pari', 'climatis', 'bientot', 'indispens', 'echapp', 'canicul']",0.7490541338920593,gossip
+336,"['commentcamarch', 'forum', 'affich', 'notic', 'francai', 'bracelet', 'bluetooth']",0.7546700239181519,gossip
+337,"['lefigaro', 'politiqu', 'scan', 'artfig', 'rejet', 'deux', 'motion', 'censur', 'contr', 'gouvern']",0.7543001174926758,gossip
+338,"['lefigaro', 'scienc', 'artfig', 'mal', 'do', 'comment', 'briser', 'cercl', 'vicieux']",0.79054194688797,Trintignan (acteur)
+339,"['madam', 'lefigaro', 'cuisin', 'huitr', 'moul', 'crevett', 'vrai', 'faux', 'consomm', 'coquillag', 'crustac']",0.5412414073944092,santé/symptomes
+340,"['lefigaro', 'scienc', 'artfig', 'nuit', 'blanch', 'cafe', 'stress', 'cern', 'ide', 'recu', 'fatigu', 'vie', 'dure']",0.4522380232810974,emploi/finance
+341,"['lefigaro', 'scienc', 'artfig', 'sucr', 'ami', 'ennemi']",0.7909843325614929,cuisine
+342,"['lefigaro', 'actualit', 'franc', 'qcmwww', 'apr', 'limit', 'vitess', 'kmh', 'pensez', 'vou', 'cett', 'mesur', 'amelior', 'securit']",0.7911365032196045,gossip
+343,"['madam', 'lefigaro', 'deco', 'design', 'peintur', 'maison', 'couleur', 'troi', 'bonn', 'raison', 'adopt', 'teint', 'vert', 'saug', 'deco']",0.7905647158622742,santé/symptomes
+344,"['sport', 'lefigaro', 'footbal', 'coup', 'mond', 'russi', 'actualit', 'coup', 'mond', 'equip', 'type', 'mondial']",0.7195331454277039,météo
+345,"['programm', 'tvmag', 'lefigaro', 'programm', 'chain', 'tou', 'programm', 'franc']",0.8321988582611084,santé/symptomes
+346,"['cuisin', 'journaldesfemm', 'recett', 'tart', 'pech', 'creme', 'amand']",0.7208591103553772,santé/symptomes
+347,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'rouen', 'aujourdhui']",0.5508131980895996,météo
+348,"['kiosqu', 'lefigaro']",0.8311887979507446,Trintignan (acteur)
+349,"['premium', 'lefigaro', 'intern']",0.572500467300415,santé/symptomes
+350,"['tvmag', 'lefigaro', 'programm', 'mort', 'jean', 'yve', 'chatelai', 'acteur', 'speakerin', 'kaamelott', 'dix', 'cent', 'bbc', 'edac']",0.8606876730918884,météo
+351,"['jeux', 'gratuit', 'jeu', 'butterfli', 'kyodai']",0.5084438920021057,météo
+352,"['sant', 'lefigaro', 'articl', 'ordr', 'medecin', 'prend', 'posit', 'contr', 'homeopathi']",0.8956668972969055,météo
+353,"['codespromo', 'lefigaro', 'code', 'promo', 'amazon']",0.1666666716337204,Trintignan (acteur)
+354,"['cuisin', 'journaldesfemm', 'recett', 'mouss', 'chocolat']",0.720920979976654,Trintignan (acteur)
+355,"['lefigaro', 'intern', 'artfig', 'etat', 'uni', 'justic', 'suspend', 'autoris', 'imprim', 'arm']",0.7213236689567566,météo
+356,"['sant', 'lefigaro', 'actualit', 'lenvi', 'pressant', 'durin', 'problem', 'tabou']",0.7913155555725098,cuisine
+357,"['lefigaro', 'musiqu', 'artfig', 'jout', 'verbal', 'mise', 'po', 'frasqu', 'booba']",0.7902222871780396,santé/symptomes
+358,"['madam', 'lefigaro', 'celebrit', 'melania', 'trump', 'photo', 'jardinag', 'detourne', 'meme', 'internet']",0.791409432888031,météo
+359,"['lachainemeteo', 'meteo', 'belgiqu', 'vill', 'previs', 'meteo', 'bruxel', 'aujourdhui']",0.7210812568664551,météo
+360,"['tvmag', 'lefigaro']",0.7899323105812073,gossip
+361,"['linternaut', 'voyag', 'transport', 'toulous', 'coupl', 'agress', 'polici', 'dechain', 'dan', 'aeroport']",0.720687210559845,Trintignan (acteur)
+362,"['sant', 'journaldesfemm', 'form', 'sport', 'conseil', 'soulag', 'courbatur']",0.7908153533935547,santé/symptomes
+363,"['franc', 'meteoconsult', 'meteo', 'franc', 'region', 'previs', 'meteo', 'franc']",0.46927154064178467,cuisine
+364,"['premium', 'lefigaro', 'cultur']",0.8807718753814697,météo
+365,"['commentcamarch', 'sommair', 'automatiqu', 'sou', 'word', 'tabl', 'matier']",0.5820725560188293,météo
+366,"['commentcamarch', 'forum', 'affich', 'fair', 'planch', 'etiquett', 'dan', 'word']",0.7909420728683472,cuisine
+367,"['cadremploi', 'editori', 'conseil', 'conseil', 'carrier', 'articl', 'messag', 'absenc', 'bureau', 'disent', 'vou']",0.790404736995697,santé/symptomes
+368,"['commentcamarch', 'forum', 'affich', 'taill', 'aliexpress', 'autr', 'site', 'meme', 'genr']",0.8956481218338013,météo
+369,"['droit', 'financ', 'commentcamarch', 'forum', 'affich', 'prime', 'activit', 'etant', 'chomag']",0.5818690657615662,emploi/finance
+370,"['sant', 'medecin', 'journaldesfemm', 'acupan', 'indic', 'posologi', 'effet', 'secondair']",0.4601762294769287,santé/symptomes
+371,"['commentcamarch', 'forum', 'affich', 'wish', 'fiabilit']",0.8606112003326416,cuisine
+372,"['droit', 'financ', 'commentcamarch', 'frai', 'commiss', 'intervent', 'demand', 'rembours']",0.8945984840393066,emploi/finance
+373,"['cuisin', 'journaldesfemm', 'recett', 'risotto', 'champignon']",0.790986955165863,cuisine
+374,"['jeux', 'gratuit', 'jeu', 'candi', 'crush', 'saga']",0.8602534532546997,emploi/finance
+375,"['linternaut', 'argent', 'guid', 'vo', 'financ', 'reconnaiss', 'dett', 'model', 'lettr', 'gratuit']",0.7208957076072693,Trintignan (acteur)
+376,"['linternaut', 'actualit', 'societ', 'aid', 'kebir', 'date', 'imminent', 'faut', 'savoir', 'cett', 'fete']",0.7909727096557617,cuisine
+377,"['lefigaro', 'intern', 'artfig', 'mexiqu', 'centain', 'passag', 'surviv', 'crash', 'decollag']",0.832952082157135,emploi/finance
+378,"['sant', 'medecin', 'journaldesfemm', 'content', 'appendicit', 'symptom', 'diagnost', 'traitement']",0.7210941314697266,météo
+379,"['forum', 'lefigaro', 'forum', 'affich', 'souhaiterai', 'souhaiterai', 'conjugaison']",0.7913289666175842,cuisine
+380,"['droit', 'financ', 'commentcamarch', 'download', 'formulair']",0.41154763102531433,Trintignan (acteur)
+381,"['viadeo', 'compani', 'search']",0.5823001265525818,cuisine
+382,"['viadeo', 'question', 'repondr']",0.7204283475875854,Trintignan (acteur)
+383,"['viadeo', 'search']",0.6802979111671448,santé/symptomes
+384,"['viadeo', 'search']",0.8329305052757263,cuisine
+385,"['madam', 'lefigaro', 'societ', 'secret', 'coupl', 'durent', 'temoignag', 'commun', 'rire', 'projet', 'desir']",0.5035218000411987,emploi/finance
+386,"['cuisin', 'journaldesfemm', 'forum', 'affich', 'quel', 'sucr', 'utilis', 'bien', 'reussir', 'confitur']",0.5825198888778687,gossip
+387,"['cuisin', 'journaldesfemm', 'recett', 'salad', 'poi', 'chich', 'oriental']",0.7217394709587097,gossip
+388,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'zodiaqu', 'sagittair', 'jour']",0.5825217366218567,gossip
+389,"['lefigaro', 'cinema', 'artfig', 'new', 'york', 'time', 'interrog', 'silenc', 'cinema', 'francai', 'concern', 'luc', 'besson']",0.5825154185295105,gossip
+390,"['video', 'lefigaro', 'madam', 'video', 'premier', 'film', 'erotiqu', 'tourn', 'drone']",0.7208217978477478,gossip
+391,"['journaldunet', 'solut', 'dsi', 'facebook', 'googl', 'ibm', 'samsung', 'pari', 'cribl']",0.4975297152996063,cuisine
+392,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'nant', 'aujourdhui']",0.7210788726806641,météo
+393,"['lefigaro', 'politiqu', 'scan', 'artfig', 'benalla', 'utilis', 'deux', 'foi', 'badg', 'assemble', 'pendant', 'suspens']",0.8607541918754578,gossip
+394,"['sport', 'lefigaro', 'rugbi', 'actualit', 'ecusson', 'cach', 'desormai', 'dan', 'slip']",0.5202378034591675,santé/symptomes
+395,"['cuisin', 'journaldesfemm', 'recett', 'gouger']",0.5733097195625305,cuisine
+396,"['cuisin', 'journaldesfemm', 'recett', 'amus', 'gueul']",0.719566822052002,météo
+397,"['journaldesfemm', 'mode', 'magazin', 'comment', 'shabil', 'chaleur', 'canicul', 'look', 'inspir', 'emiliebrunett']",0.8956702947616577,météo
+398,"['journaldesfemm', 'mode', 'magazin', 'comment', 'shabil', 'chaleur', 'canicul', 'look', 'inspir', 'haleboyd']",0.8328693509101868,gossip
+399,"['droit', 'financ', 'commentcamarch', 'vignett', 'pollut', 'pari', 'reglement', 'sanction']",0.7908105850219727,santé/symptomes
+400,"['madam', 'lefigaro', 'celebrit', 'brad', 'pitt', 'nouvel', 'petit', 'ami', 'professeur', 'mit', 'neri', 'oxman']",0.7210636138916016,météo
+401,"['commentcamarch', 'content', 'code', 'ascii']",0.7210462689399719,météo
+402,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'renn', 'aujourdhui']",0.8304030895233154,emploi/finance
+403,"['lefigaro', 'politiqu', 'artfig', 'affair', 'benalla', 'vincent', 'crase', 'etait', 'arm', 'lor', 'manifest', 'mai']",0.8304147720336914,emploi/finance
+404,"['lefigaro', 'emploi', 'artfig', 'pole', 'emploi', 'recuper', 'plu', 'trop', 'percu', 'vers', 'chomeur']",0.8327957391738892,emploi/finance
+405,"['journaldunet', 'manag', 'guid', 'manag', 'demand', 'remis', 'gracieus', 'pole', 'emploi', 'assed']",0.7904096841812134,météo
+406,"['journaldesfemm', 'peopl', 'even', 'johnni', 'laeticia', 'hallydai', 'mariag', 'photo']",0.7903587818145752,emploi/finance
+407,"['commentcamarch', 'forum', 'affich', 'trouver', 'code', 'free', 'wifi']",0.8956703543663025,météo
+408,"['sant', 'medecin', 'journaldesfemm', 'tendinit', 'epaul', 'symptom', 'traitement']",0.4708590805530548,gossip
+409,"['sant', 'medecin', 'journaldesfemm', 'bursit', 'symptom', 'traitement']",0.8311424255371094,emploi/finance
+410,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'bourg', 'aujourdhui']",0.8801735639572144,emploi/finance
+411,"['lefigaro', 'actualit', 'franc', 'artfig', 'incendi', 'aubervilli', 'enfant', 'dix', 'an', 'mi', 'examen']",0.7197397947311401,météo
+412,"['sant', 'lefigaro', 'actualit', 'herni', 'abdominal', 'chirurgi', 'pa', 'simpl']",0.8593341112136841,cuisine
+413,"['meteoconsult', 'alert', 'meteo', 'communiqu', 'special', 'vigil', 'meteo']",0.8326503038406372,santé/symptomes
+414,"['lefigaro', 'photo', 'artfig', 'heur', 'photo', 'juillet']",0.8326431512832642,santé/symptomes
+415,"['commentcamarch', 'download', 'window']",0.8956702351570129,météo
+416,"['cadremploi', 'editori', 'conseil', 'conseil', 'candidatur', 'lettr', 'motiv', 'articl', 'mail', 'motiv', 'comment', 'accroch', 'recruteur']",0.8601629137992859,Trintignan (acteur)
+417,"['cadremploi', 'editori', 'conseil', 'conseil', 'candidatur', 'lettr', 'motiv', 'articl', 'lettr', 'motiv', 'regl', 'connaitr', 'gagner', 'temp']",0.7882705926895142,santé/symptomes
+418,"['cadremploi', 'editori', 'conseil', 'conseil', 'candidatur', 'lettr', 'motiv', 'articl', 'mail', 'motiv', 'convaincu']",0.5700858235359192,météo
+419,"['cadremploi', 'editori', 'conseil', 'conseil', 'candidatur', 'lettr', 'motiv']",0.790082573890686,cuisine
+420,"['cadremploi', 'editori', 'conseil', 'conseil', 'candidatur', 'lettr', 'motiv', 'articl', 'lettr', 'motiv', 'truc', 'infail', 'etr']",0.7912598252296448,cuisine
+421,"['madam', 'lefigaro', 'bon', 'plan', 'remportez', 'duo', 'soin', 'solair', 'filorga']",0.9303856492042542,emploi/finance
+422,"['madam', 'lefigaro', 'recett', 'fruit', 'roug', 'mascarpon']",0.930259644985199,emploi/finance
+423,"['commentcamarch', 'new', 'testez', 'nouvel', 'interfac', 'chrome']",0.9240672588348389,emploi/finance
+424,"['droit', 'financ', 'commentcamarch', 'content', 'prestat', 'compensatoir', 'calcul', 'montant']",0.8957226872444153,emploi/finance
+425,"['premium', 'lefigaro', 'intern', 'artfig', 'migrant', 'vou', 'cach']",0.9297835230827332,emploi/finance
+426,"['etudi', 'lefigaro', 'articl', 'rappeur', 'booba', 'proce', 'soir', 'nanterr', 'rime', 'contr', 'humanit', 'bcc', 'fbafc']",0.5821343064308167,gossip
+427,"['linternaut', 'bricolag', 'guid', 'maison', 'jardin', 'climatis', 'laquel', 'choisir', 'maison']",0.4029238522052765,gossip
+428,"['commentcamarch', 'forum', 'affich', 'freebox', 'resili', 'beinsport']",0.4533558487892151,météo
+429,"['meteoconsult', 'meteo', 'franc', 'previs', 'meteo', 'franc']",0.8807574510574341,emploi/finance
+430,"['linternaut', 'hightech', 'internet', 'select', 'question', 'informatiqu', 'recurrent', 'resolu', 'ordinateur', 'plu', 'comment', 'fair', 'shtml']",0.5508784651756287,Trintignan (acteur)
+431,"['marin', 'meteoconsult', 'meteo', 'marin', 'meteo', 'abord', 'port', 'mer', 'mediterrane', 'previs', 'meteo', 'porquerol']",0.7212276458740234,santé/symptomes
+432,"['sant', 'journaldesfemm', 'maux', 'quotidien', 'maladi', 'thyroid', 'symptom', 'traitement', 'bilan', 'thyroidien']",0.5137755274772644,santé/symptomes
+433,"['lefigaro', 'politiqu', 'artfig', 'benalla', 'gendarm', 'mitterrand', 'barbouz', 'dossier', 'noir', 'elyse']",0.7909682989120483,cuisine
+434,"['leconjugueur', 'lefigaro']",0.8807511329650879,météo
+435,"['cadremploi', 'emploi', 'recruteur']",0.5156920552253723,santé/symptomes
+436,"['madam', 'lefigaro', 'celebrit', 'valeri', 'trierweil', 'nouveau', 'compagnon', 'romain', 'magellan', 'ancien', 'rugbyman']",0.9165160059928894,météo
+437,"['droit', 'financ', 'commentcamarch', 'download', 'model', 'lettr']",0.8328782916069031,santé/symptomes
+438,"['droit', 'financ', 'commentcamarch', 'download', 'telecharg', 'act', 'caution', 'solidair', 'model']",0.7908925414085388,gossip
+439,"['lefigaro', 'actualit', 'franc', 'artfig', 'quatr', 'mort', 'apr', 'crue', 'dan', 'canyon', 'cors']",0.5824361443519592,cuisine
+440,"['sant', 'journaldesfemm', 'rhumatologi', 'soigner', 'dechirur', 'musculair', 'repo', 'princip', 'traitement']",0.7221313118934631,emploi/finance
+441,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'pensez', 'vou', 'patch', 'perdr', 'poid']",0.7198525667190552,météo
+442,"['marin', 'meteoconsult', 'meteo', 'marin', 'meteo', 'abord', 'port', 'manch', 'previs', 'meteo', 'dinard']",0.729942262172699,emploi/finance
+443,"['lefigaro', 'cinema', 'artfig', 'plaint', 'viol', 'contr', 'luc', 'besson', 'enquet']",0.5311816930770874,emploi/finance
+444,"['madam', 'lefigaro', 'bien', 'etr', 'faut', 'dormir', 'san', 'culott', 'risqu', 'mycos', 'infect', 'urinair', 'cystit']",0.8598856329917908,santé/symptomes
+445,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'demangeaison', 'brulur', 'vaginal']",0.7208331227302551,santé/symptomes
+446,"['commentcamarch', 'cle', 'comparatif', 'forfait', 'san', 'abonn']",0.49718722701072693,santé/symptomes
+447,"['jeux', 'gratuit', 'jeu', 'gratuit', 'jewel', 'quest']",0.9165147542953491,météo
+448,"['jeux', 'gratuit', 'jeux', 'reflexion']",0.7207501530647278,santé/symptomes
+449,"['jeux', 'gratuit', 'jeux', 'defens']",0.8321409821510315,Trintignan (acteur)
+450,"['madam', 'lefigaro', 'bien', 'etr', 'allon', 'nou', 'boir', 'chaqu', 'matin', 'shot', 'vinaigr', 'cidr']",0.8319873809814453,santé/symptomes
+451,"['commentcamarch', 'comment', 'utilis', 'wetransf']",0.721498966217041,cuisine
+452,"['lefigaro', 'scienc']",0.8330816626548767,cuisine
+453,"['lefigaro', 'conjonctur', 'artfig', 'suppress', 'tax', 'habit', 'pourrait', 'fair', 'augment', 'loyer']",0.7913012504577637,cuisine
+454,"['lefigaro', 'societ', 'artfig', 'cass', 'recyclag', 'revent', 'second', 'vie', 'autolib', 'velib']",0.7912943363189697,cuisine
+455,"['lefigaro', 'vox', 'societ', 'artfig', 'luc', 'ferri', 'coup', 'mond', 'affair', 'benalla', 'futilit']",0.7908437848091125,gossip
+456,"['boutiqu', 'lefigaro']",0.7209281921386719,emploi/finance
+457,"['droit', 'financ', 'commentcamarch', 'model', 'lettr', 'licenci']",0.5831717252731323,santé/symptomes
+458,"['linternaut', 'dictionnair', 'definit', 'philanthrop']",0.7885256409645081,gossip
+459,"['commentcamarch', 'download', 'telecharg', 'malwarebyt', 'anti', 'malwar']",0.7900258898735046,gossip
+460,"['lefigaro', 'politiqu', 'artfig', 'affair', 'benalla', 'mainten', 'passer']",0.6994038820266724,gossip
+461,"['sant', 'medecin', 'journaldesfemm', 'medecin', 'conventionn', 'secteur', 'secteur', 'definit']",0.1666666716337204,Trintignan (acteur)
+462,"['droit', 'financ', 'commentcamarch', 'quotient', 'famili', 'plafonn']",0.8608022928237915,emploi/finance
+463,"['madam', 'lefigaro', 'prenom', 'guid', 'prenom', 'masculin', 'originaux']",0.7203524708747864,Trintignan (acteur)
+464,"['cuisin', 'journaldesfemm', 'recett', 'ratatouil']",0.7911736965179443,cuisine
+465,"['lefigaro', 'vox', 'societ', 'artfig', 'harcel', 'rue', 'polici', 'savent', 'tre', 'bien', 'cett', 'loi', 'purement', 'inapplic']",0.4717017114162445,gossip
+466,"['sant', 'medecin', 'journaldesfemm', 'rhume', 'hanch', 'symptom', 'traitement']",0.8327081799507141,Trintignan (acteur)
+467,"['marin', 'meteoconsult', 'servic', 'meteo', 'abonn', 'previs', 'meteo', 'marin', 'detaille']",0.7911030054092407,emploi/finance
+468,"['marin', 'meteoconsult', 'meteo', 'marin', 'meteo', 'abord', 'port', 'ocean', 'atlantiqu', 'previs', 'meteo', 'rochel']",0.7204551696777344,gossip
+469,"['sant', 'medecin', 'journaldesfemm', 'polyarthrit', 'rhumatoid', 'caus', 'symptom', 'traitement']",0.7210800647735596,météo
+470,"['droit', 'financ', 'commentcamarch', 'prevenir', 'voisin', 'fete', 'model', 'lettr']",0.5805354118347168,cuisine
+471,"['viadeo', 'job', 'detailscandidatur']",0.8326301574707031,santé/symptomes
+472,"['viadeo', 'contact', 'suggest']",0.8807036876678467,météo
+473,"['tvmag', 'lefigaro', 'programm', 'plu', 'bell', 'vie', 'laurent', 'kerusor', 'touch', 'ccbdb']",0.9165152311325073,météo
+474,"['bricolag', 'linternaut', 'forum', 'affich', 'machin', 'laver', 'veut', 'pa', 'demarr']",0.860572099685669,santé/symptomes
+475,"['bricolag', 'linternaut', 'forum', 'affich', 'tambour', 'machin', 'laver', 'tourn', 'plu', 'fair']",0.8607931733131409,emploi/finance
+476,"['lefigaro', 'actualit']",0.582495927810669,gossip
+477,"['leconjugueur', 'lefigaro', 'conjugaison', 'verb', 'atterrir']",0.5825070142745972,gossip
+478,"['cadremploi', 'editori', 'conseil', 'salair', 'articl', 'comment', 'repondr', 'question', 'vo', 'pretent', 'salarial']",0.8598959445953369,météo
+479,"['droit', 'financ', 'commentcamarch', 'model', 'lettr', 'locat', 'loyer', 'impay']",0.6086850166320801,cuisine
+480,"['droit', 'financ', 'commentcamarch', 'model', 'lettr', 'reconnaiss', 'dett']",0.46444985270500183,santé/symptomes
+481,"['cuisin', 'journaldesfemm', 'recett', 'tiramisu', 'frambois']",0.5810656547546387,santé/symptomes
+482,"['cuisin', 'journaldesfemm', 'recett', 'tiramisu', 'frambois', 'speculoo']",0.7915166616439819,cuisine
+483,"['sant', 'lefigaro', 'articl', 'sept', 'chose', 'savoir', 'scleros', 'plaqu']",0.5202536582946777,santé/symptomes
+484,"['madam', 'lefigaro', 'cuisin', 'comment', 'cuir', 'haricot', 'vert', 'convenabl']",0.8807167410850525,emploi/finance
+485,"['madam', 'lefigaro', 'beaut', 'voyag', 'vaniti', 'beaut', 'parfait', 'emmen', 'week', 'end', 'peu', 'plu']",0.8608022928237915,emploi/finance
+486,"['journaldunet', 'patrimoin', 'guid', 'financ', 'personnel', 'rembours', 'impot', 'quand', 'comment', 'benefici']",0.7210955023765564,météo
+487,"['jeux', 'gratuit', 'jeu', 'mahjong', 'connect']",0.721063494682312,météo
+488,"['journaldunet', 'manag', 'guid', 'manag', 'lettr', 'procur']",0.790250301361084,santé/symptomes
+489,"['lefigaro', 'intern', 'artfig', 'israel', 'retour', 'an', 'histoir']",0.7885954976081848,gossip
+490,"['lefigaro', 'intern', 'artfig', 'israel', 'parlement', 'adopt', 'loi', 'definiss', 'pai', 'comm', 'etat', 'nation', 'peupl', 'juif']",0.8593210577964783,santé/symptomes
+491,"['droit', 'financ', 'commentcamarch', 'model', 'lettr', 'demand', 'prolong', 'cong', 'parent']",0.8949585556983948,santé/symptomes
+492,"['sant', 'medecin', 'journaldesfemm', 'femm', 'fontain', 'explic']",0.7913249135017395,cuisine
+493,"['keljob', 'inform', 'legal', 'cgu']",0.7231176495552063,emploi/finance
+494,"['cadremploi', 'editori', 'intern', 'sommair', 'articl', 'anglai']",0.7906439900398254,Trintignan (acteur)
+495,"['madam', 'lefigaro', 'celebrit', 'jessica', 'alba', 'brad', 'pitt', 'kati', 'holm', 'semain', 'peopl']",0.8601793646812439,gossip
+496,"['madam', 'lefigaro', 'style', 'plu', 'beaux', 'maillot', 'bain', 'cinema']",0.8807104229927063,emploi/finance
+497,"['lefigaro', 'politiqu', 'scan', 'artfig', 'marlen', 'schiappa', 'denonc', 'act', 'sexist', 'ugo', 'bernalici', 'lfi', 'assemble']",0.7903841733932495,gossip
+498,"['jeux', 'gratuit', 'jeux', 'precis']",0.5824704170227051,santé/symptomes
+499,"['jeux', 'gratuit', 'jeu', 'han', 'franz', 'bubbl']",0.8318923711776733,emploi/finance
+500,"['sant', 'medecin', 'journaldesfemm', 'occlus', 'intestinal', 'caus', 'symptom', 'traitement']",0.831687331199646,Trintignan (acteur)
+501,"['commentcamarch', 'forum', 'affich', 'comment', 'fair', 'rembours', 'ticket', 'recharg', 'transcash']",0.7897831797599792,santé/symptomes
+502,"['droit', 'financ', 'commentcamarch', 'voitur', 'occas', 'achat', 'chez', 'professionnel']",0.7911370396614075,gossip
+503,"['droit', 'financ', 'commentcamarch', 'impot', 'barem', 'calcul', 'tranch']",0.7913076877593994,cuisine
+504,"['commentcamarch', 'forum', 'affich', 'annul', 'reserv', 'book']",0.791317343711853,cuisine
+505,"['journaldunet', 'ebusi', 'publicit', 'comment', 'criteo', 'rate', 'coch', 'diversif']",0.8605939149856567,santé/symptomes
+506,"['lefigaro', 'langu', 'francais', 'actu', 'mot', 'artfig', 'fait', 'grave', 'genr', 'mai', 'viennent', 'tic', 'langag']",0.8604586720466614,cuisine
+507,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'perpignan', 'aujourdhui']",0.688953161239624,emploi/finance
+508,"['droit', 'financ', 'commentcamarch', 'achat', 'tabac', 'espagn', 'douan', 'quantit', 'maximal']",0.45394808053970337,emploi/finance
+509,"['lefigaro', 'conso', 'artfig', 'pourquoi', 'compteur', 'linki', 'allum', 'votr', 'lamp', 'chevet', 'eteint', 'votr', 'tele']",0.7909865975379944,cuisine
+510,"['viadeo', 'miseenrel', 'demandesemis', 'index', 'jsp']",0.7207038998603821,santé/symptomes
+511,"['viadeo', 'miseenrel', 'demandesemis']",0.8603479266166687,gossip
+512,"['viadeo', 'network']",0.8956703543663025,météo
+513,"['sant', 'medecin', 'journaldesfemm', 'maladi', 'charcot', 'symptom', 'traitement']",0.7910856008529663,emploi/finance
+514,"['commentcamarch', 'download']",0.7902865409851074,Trintignan (acteur)
+515,"['commentcamarch', 'download', 'telecharg', 'googl', 'earth']",0.5824753046035767,gossip
+516,"['droit', 'financ', 'commentcamarch', 'download', 'telecharg', 'certificat', 'cession', 'vehicul', 'cerfa']",0.5824955701828003,gossip
+517,"['droit', 'financ', 'commentcamarch', 'attest', 'heberg', 'model', 'lettr']",0.5824574828147888,gossip
+518,"['droit', 'financ', 'commentcamarch', 'download', 'telecharg', 'attest', 'heberg']",0.8606440424919128,santé/symptomes
+519,"['meteoconsult', 'meteo', 'montagn', 'previs', 'meteo', 'montagn']",0.7215214967727661,cuisine
+520,"['jeux', 'gratuit', 'jeu', 'mahjong', 'cook']",0.7911816239356995,cuisine
+521,"['jeux', 'gratuit', 'jeu', 'bubbl', 'shooter']",0.5683026909828186,cuisine
+522,"['lefigaro', 'conso', 'artfig', 'pain', 'brioch', 'anti', 'vieilliss', 'rembours', 'securit', 'social']",0.8806716799736023,emploi/finance
+523,"['lefigaro', 'flash', 'actu', 'filwww', 'fake', 'new', 'patron', 'new', 'york', 'time', 'met', 'trump', 'gard']",0.5310111045837402,emploi/finance
+524,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'comment', 'arret', 'regl', 'momentan']",0.8330971598625183,météo
+525,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'comment', 'stopper', 'regl']",0.7913098335266113,cuisine
+526,"['linternaut', 'actualit', 'depech']",0.7913287878036499,cuisine
+527,"['droit', 'financ', 'commentcamarch', 'travail', 'chaleur', 'dit', 'loi']",0.7208327651023865,Trintignan (acteur)
+528,"['linternaut', 'argent', 'guid', 'vo', 'financ', 'assistant', 'maternel', 'mettr', 'fin', 'contrat']",0.8804044127464294,cuisine
+529,"['lefigaro', 'conjonctur', 'artfig', 'croissanc', 'gouvern', 'abandonn', 'objectif']",0.46778565645217896,santé/symptomes
+530,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'grenobl', 'aujourdhui']",0.4676876664161682,santé/symptomes
+531,"['lachainemeteo', 'meteo', 'mond', 'pai', 'previs', 'meteo', 'portug', 'aujourdhui']",0.7196131348609924,santé/symptomes
+532,"['droit', 'financ', 'commentcamarch', 'medail', 'travail', 'condit', 'formalit']",0.45476168394088745,emploi/finance
+533,"['lachainemeteo', 'video', 'meteo', 'video', 'meteo', 'franc', 'bulletin', 'franc']",0.8597187995910645,Trintignan (acteur)
+534,"['lefigaro', 'cultur']",0.7212826013565063,gossip
+535,"['droit', 'financ', 'commentcamarch', 'prime', 'activit', 'calcul', 'montant', 'condit']",0.8956655859947205,météo
+536,"['premium', 'lefigaro', 'economi']",0.7147073745727539,météo
+537,"['keljob', 'emploi', 'manutentionnair']",0.8595418334007263,emploi/finance
+538,"['lefigaro', 'politiqu', 'scan', 'artfig', 'macron', 'benalla', 'sui', 'fier', 'avoir', 'embauch', 'elyse']",0.8953946828842163,météo
+539,"['journaldunet', 'manag', 'guid', 'manag', 'messag', 'absenc', 'bureau', 'exempl', 'mail', 'francai', 'anglai']",0.1666666716337204,Trintignan (acteur)
+540,"['meteoconsult', 'meteo', 'franc', 'apercu', 'vill', 'previs', 'meteo', 'pari']",0.8807132244110107,emploi/finance
+541,"['meteoconsult', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'pari']",0.581787109375,emploi/finance
+542,"['droit', 'financ', 'commentcamarch', 'attest', 'honneur', 'model', 'lettr']",0.4095631539821625,emploi/finance
+543,"['droit', 'financ', 'commentcamarch', 'dsi', 'date', 'limit', 'envoi']",0.8802570104598999,gossip
+544,"['droit', 'financ', 'commentcamarch', 'indic', 'cout', 'construct', 'icc']",0.8950648903846741,santé/symptomes
+545,"['cuisin', 'journaldesfemm', 'recett', 'verrin', 'fraicheur', 'avocat', 'saumon', 'fume']",0.8956503868103027,météo
+546,"['cuisin', 'journaldesfemm', 'recett', 'tart', 'saumon']",0.8956581950187683,météo
+547,"['commentcamarch', 'download', 'system']",0.880671501159668,emploi/finance
+548,"['droit', 'financ', 'commentcamarch', 'redev', 'audiovisuel', 'montant']",0.5877833962440491,emploi/finance
+549,"['cuisin', 'journaldesfemm', 'recett', 'moelleux', 'pomm', 'mami']",0.7910900712013245,emploi/finance
+550,"['droit', 'financ', 'commentcamarch', 'content', 'syndic', 'copropriet', 'role', 'mission', 'responsabilit']",0.721062183380127,météo
+551,"['cadremploi', 'editori', 'conseil', 'conseil', 'carrier', 'articl', 'cong', 'pay', 'altern', 'comment', 'march']",0.5084813833236694,météo
+552,"['commentcamarch', 'forum', 'affich', 'sujet', 'group', 'site', 'wannonc', 'repond', 'plu']",0.7215345501899719,cuisine
+553,"['lefigaro', 'flash', 'eco', 'filwww', 'entrepris', 'pourraient', 'payer', 'indemnit', 'maladi']",0.8329830765724182,emploi/finance
+554,"['viadeo', 'ziiwxtlyq']",0.7904767394065857,cuisine
+555,"['lefigaro', 'langu', 'francais']",0.832984209060669,emploi/finance
+556,"['linternaut', 'dictionnair', 'definit', 'pragmatiqu']",0.8806734085083008,emploi/finance
+557,"['lefigaro', 'langu', 'francais', 'actu', 'mot', 'artfig', 'vient', 'mot', 'tchuss']",0.5519260168075562,cuisine
+558,"['lefigaro', 'flash', 'actu', 'filwww', 'trump', 'demand', 'ministr', 'justic', 'stopper', 'enquet', 'russ']",0.8317069411277771,Trintignan (acteur)
+559,"['leconjugueur', 'lefigaro', 'conjugaison', 'verb', 'transmettr']",0.5824459195137024,gossip
+560,"['actu', 'lachainemeteo', 'actualit', 'meteo', 'tout', 'actualit', 'meteo']",0.7216155529022217,gossip
+561,"['lefigaro', 'politiqu', 'artfig', 'loi', 'immigr', 'vote', 'definitiv', 'issu', 'parcour', 'accident']",0.720340371131897,Trintignan (acteur)
+562,"['linternaut', 'voyag', 'pratiqu', 'chequ', 'vacanc', 'ancv', 'comment', 'utilis', 'accept']",0.8803607821464539,gossip
+563,"['cuisin', 'journaldesfemm', 'recett', 'souri', 'agneau', 'confit']",0.5506493449211121,cuisine
+564,"['droit', 'financ', 'commentcamarch', 'pension', 'revers', 'fonctionnair', 'combien']",0.7915166020393372,cuisine
+565,"['commentcamarch', 'erreur', 'quoi']",0.8801542520523071,météo
+566,"['ticketac', 'spectacl', 'list']",0.7907235026359558,gossip
+567,"['linternaut', 'cinema', 'film', 'affich']",0.7905643582344055,cuisine
+568,"['horair', 'lefigaro']",0.7210550308227539,météo
+569,"['droit', 'financ', 'commentcamarch', 'recu', 'associ', 'model', 'attest']",0.7910889387130737,emploi/finance
+570,"['droit', 'financ', 'commentcamarch', 'download', 'telecharg', 'cerfa', 'recu', 'associ']",0.5813928246498108,cuisine
+571,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'besancon', 'aujourdhui']",0.5819560885429382,emploi/finance
+572,"['tvmag', 'lefigaro', 'programm', 'laurent', 'ruquier', 'partag', 'pa', 'ide', 'charl', 'consigni', 'edac']",0.7905728816986084,cuisine
+573,"['cuisin', 'journaldesfemm', 'recett', 'tart', 'citron', 'meringue', 'facon', 'pierr', 'herm']",0.1666666716337204,Trintignan (acteur)
+574,"['cuisin', 'journaldesfemm', 'recett', 'meringu', 'inrat']",0.86074298620224,emploi/finance
+575,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'nice', 'aujourdhui']",0.5681276321411133,cuisine
+576,"['madam', 'lefigaro', 'societ', 'juli', 'gayet', 'francoi', 'holland', 'coupl', 'scoop', 'closer', 'vie', 'apr', 'elyse']",0.8956702351570129,météo
+577,"['sport', 'lefigaro', 'footbal', 'transfert', 'actualit', 'direct', 'foot', 'mercato', 'rumeur', 'transfert', 'mardi', 'juillet']",0.8328066468238831,météo
+578,"['sport', 'lefigaro', 'footbal', 'transfert', 'tableau', 'mercato']",0.508403480052948,météo
+579,"['commentcamarch', 'forum', 'affich', 'dresslili', 'site', 'sure']",0.7210944890975952,météo
+580,"['sant', 'medecin', 'journaldesfemm', 'sigmoidit', 'symptom', 'traitement']",0.8956703543663025,météo
+581,"['cuisin', 'journaldesfemm', 'recett', 'osso', 'bucco']",0.8319547176361084,gossip
+582,"['sant', 'medecin', 'journaldesfemm', 'contus', 'definit']",0.7904207110404968,météo
+583,"['auto', 'linternaut', 'forum', 'affich', 'fair', 'problem', 'antidemarrag']",0.7212492823600769,météo
+584,"['journaldunet', 'manag', 'guid', 'manag', 'demand', 'stage', 'model', 'lettr', 'motiv']",0.7909868955612183,cuisine
+585,"['journaldunet', 'manag', 'guid', 'manag', 'lettr', 'motiv', 'assist', 'administratif']",0.8326466679573059,santé/symptomes
+586,"['sant', 'medecin', 'journaldesfemm', 'maladi', 'parkinson', 'caus', 'symptom', 'traitement']",0.7210683822631836,météo
+587,"['cadremploi', 'emploi', 'pourquoi', 'inscript']",0.7909162640571594,Trintignan (acteur)
+588,"['lefigaro', 'actualit', 'franc', 'artfig', 'sauciss', 'maitress', 'faibless', 'mi', 'fin', 'caval', 'fugitif']",0.8597436547279358,cuisine
+589,"['sport', 'lefigaro', 'footbal', 'transfert']",0.9069253206253052,emploi/finance
+590,"['commentcamarch', 'forum', 'affich', 'deja', 'command', 'chez', 'floridai']",0.8801479339599609,emploi/finance
+591,"['madam', 'lefigaro', 'celebrit', 'apr', 'stormi', 'daniel', 'karen', 'mcdougal', 'playmat', 'mannequin', 'lautr', 'maitress', 'presume', 'presid', 'donald', 'trump']",0.8805726766586304,santé/symptomes
+592,"['meteoconsult', 'meteo', 'espagn', 'vill', 'previs', 'meteo', 'rose', 'rosa']",0.7914418578147888,emploi/finance
+593,"['madam', 'lefigaro', 'bien', 'etr', 'regim', 'montignac', 'maigrir', 'rapid', 'vaut', 'method']",0.8315132260322571,santé/symptomes
+594,"['commentcamarch', 'window', 'trouver', 'panneau', 'configur']",0.721281886100769,météo
+595,"['commentcamarch', 'comment', 'acced']",0.5487322211265564,cuisine
+596,"['info', 'sant', 'lefigaro', 'articl', 'deux', 'cancer', 'cinq', 'evit']",0.8315194249153137,météo
+597,"['commentcamarch', 'download', 'lecteur', 'video']",0.8609217405319214,météo
+598,"['commentcamarch', 'download', 'telecharg', 'cacaoweb']",0.7908402681350708,gossip
+599,"['linternaut', 'cart', 'cgi', 'cartepostal', 'ecart', 'coord']",0.7911461591720581,cuisine
+600,"['linternaut', 'cart']",0.7209467887878418,emploi/finance
+601,"['linternaut', 'cart', 'envoi', 'anniversair', 'countri', 'shtml']",0.7904493808746338,gossip
+602,"['copainsdav', 'linternaut', 'forgot', 'password']",0.7910788655281067,cuisine
+603,"['copainsdav', 'linternaut']",0.7911865711212158,cuisine
+604,"['copainsdav', 'linternaut', 'inbox']",0.7213622331619263,cuisine
+605,"['lefigaro', 'musiqu', 'artfig', 'vai', 'attrap', 'fair', 'sale', 'violent', 'clash', 'entr', 'booba', 'maitr', 'gim']",0.7213636040687561,cuisine
+606,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'zodiaqu', 'verseau', 'jour']",0.8322182297706604,santé/symptomes
+607,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'chinoi', 'serpent', 'jour']",0.721504807472229,cuisine
+608,"['jeux', 'gratuit', 'jeu', 'candi', 'bubbl']",0.721505880355835,cuisine
+609,"['sant', 'medecin', 'journaldesfemm', 'cancer', 'estomac', 'symptom', 'caus', 'traitement']",0.7215000987052917,cuisine
+610,"['droit', 'financ', 'commentcamarch', 'forum', 'affich', 'tax', 'achat', 'vehicul', 'allemagn']",0.5025302171707153,santé/symptomes
+611,"['cuisin', 'journaldesfemm', 'recett', 'tiramisu']",0.860748827457428,gossip
+612,"['commentcamarch', 'forum', 'affich', 'trouver', 'adress', 'postal', 'nom']",0.6895179748535156,Trintignan (acteur)
+613,"['jeux', 'gratuit', 'jeu', 'brick', 'shooter']",0.7913287281990051,cuisine
+614,"['jeux', 'gratuit', 'jeu', 'precis', 'bounc', 'ball']",0.4992592930793762,santé/symptomes
+615,"['premium', 'lefigaro', 'actualit']",0.8602529764175415,emploi/finance
+616,"['droit', 'financ', 'commentcamarch', 'search']",0.7210960388183594,météo
+617,"['droit', 'financ', 'commentcamarch', 'download', 'telecharg', 'cerfa', 'formulair', 'lign']",0.8328210711479187,cuisine
+618,"['linternaut', 'actualit', 'guid', 'vie', 'quotidienn', 'text', 'anniversair', 'an', 'model', 'text', 'souhait', 'an', 'proch']",0.7913289666175842,cuisine
+619,"['lefigaro', 'musiqu', 'artfig', 'black', 'chanteur', 'wonder', 'life', 'mort']",0.7913073301315308,cuisine
+620,"['cuisin', 'journaldesfemm', 'recett', 'cake', 'chorizo']",0.7204385995864868,Trintignan (acteur)
+621,"['linternaut', 'natur', 'animaux', 'magazin', 'objet', 'sait', 'jamai', 'jeter', 'polystyren', 'emballag']",0.7910743355751038,emploi/finance
+622,"['sport', 'lefigaro', 'scan', 'sport', 'artfig', 'incroy', 'transform', 'roland', 'garro']",0.5684131383895874,cuisine
+623,"['sant', 'medecin', 'journaldesfemm', 'content', 'masturb', 'feminin', 'masculin', 'frequenc']",0.6645765900611877,santé/symptomes
+624,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'danger', 'masturb', 'chez', 'homm']",0.720485270023346,santé/symptomes
+625,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'verru', 'plantair', 'truc', 'grand', 'mere']",0.7210955619812012,météo
+626,"['video', 'lefigaro', 'figaro', 'video', 'presentatric', 'stopp', 'manier', 'spectaculair', 'cheval', 'lanc', 'plein', 'galop']",0.7197575569152832,Trintignan (acteur)
+627,"['commentcamarch', 'forum', 'affich', 'recevoir', 'satellit']",0.5951200127601624,santé/symptomes
+628,"['droit', 'financ', 'commentcamarch', 'attest', 'paiement', 'loyer', 'model', 'exempl']",0.6238692402839661,Trintignan (acteur)
+629,"['madam', 'lefigaro', 'bien', 'etr', 'comment', 'mincir', 'muscler', 'san', 'prendr', 'trop', 'muscl']",0.8600558638572693,santé/symptomes
+630,"['lefigaro', 'actualit', 'franc', 'dossier', 'affair', 'benalla', 'macron', 'gard', 'corp', 'video', 'manifest']",0.8320024013519287,santé/symptomes
+631,"['lefigaro', 'politiqu', 'scan', 'citat', 'artfig', 'affair', 'benalla', 'face', 'opposit', 'philipp', 'denonc', 'volont', 'atteindr', 'macron']",0.7909267544746399,cuisine
+632,"['viadeo', 'job', 'center']",0.7909746766090393,cuisine
+633,"['lefigaro', 'politiqu', 'artfig', 'twitter', 'internaut', 'amus', 'affair', 'benalla', 'font', 'bien']",0.8806807398796082,emploi/finance
+634,"['droit', 'financ', 'commentcamarch', 'lettr', 'preavi', 'logement']",0.6590939164161682,gossip
+635,"['droit', 'financ', 'commentcamarch', 'preavi', 'locat', 'resili', 'bail']",0.8802844285964966,météo
+636,"['droit', 'financ', 'commentcamarch', 'locat', 'model', 'lettr']",0.8951987028121948,gossip
+637,"['droit', 'financ', 'commentcamarch', 'download', 'telecharg', 'zone', 'tendu', 'list', 'vill', 'zone', 'tendu']",0.5824849009513855,gossip
+638,"['jeux', 'gratuit', 'jeu', 'mahjong', 'pokemon']",0.7247477173805237,gossip
+639,"['leconjugueur', 'lefigaro', 'conjugaison', 'verb', 'fournir']",0.860518217086792,emploi/finance
+640,"['lefigaro', 'langu', 'francais', 'express', 'francais', 'artfig', 'dix', 'formul', 'evit', 'dan', 'mail']",0.8605369925498962,emploi/finance
+641,"['droit', 'financ', 'commentcamarch', 'surfac', 'habit', 'definit', 'calcul']",0.8807141780853271,emploi/finance
+642,"['cadremploi', 'editori', 'conseil', 'droit', 'travail', 'articl', 'preavi', 'depart', 'lor', 'dune', 'demiss']",0.7413285970687866,emploi/finance
+643,"['droit', 'financ', 'commentcamarch', 'model', 'lettr', 'promess', 'vent', 'retract']",0.7913204431533813,cuisine
+644,"['keljob', 'articl', 'exempl', 'mail', 'envoy', 'apr', 'entretien', 'embauch']",0.7915165424346924,cuisine
+645,"['droit', 'financ', 'commentcamarch', 'paje', 'montant']",0.8795726895332336,gossip
+646,"['sant', 'journaldesfemm', 'calori', 'classement', 'aliment', 'potassium']",0.8599396347999573,emploi/finance
+647,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'mari', 'trintign']",0.8948638439178467,emploi/finance
+648,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'parent', 'bertrand', 'cantat']",0.8607911467552185,emploi/finance
+649,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'hotel', 'domina', 'plaza']",0.8954601883888245,santé/symptomes
+650,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'krisztina', 'radi']",0.83298259973526,emploi/finance
+651,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'prison', 'muret']",0.41938841342926025,cuisine
+652,"['journaldesfemm', 'maman']",0.8806206583976746,Trintignan (acteur)
+653,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'chambr', 'hotel', 'domina', 'plaza']",0.8806236386299133,Trintignan (acteur)
+654,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'bertrand', 'cantat']",0.83270663022995,Trintignan (acteur)
+655,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'tomb', 'mari', 'trintign']",0.8327032327651978,Trintignan (acteur)
+656,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'cliniqu', 'hartmann']",0.8327035307884216,Trintignan (acteur)
+657,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'parent', 'mari', 'trintign']",0.1666666716337204,Trintignan (acteur)
+658,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'famil', 'mari', 'trintign']",0.8327057957649231,Trintignan (acteur)
+659,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'inrock', 'ell']",0.8806238174438477,Trintignan (acteur)
+660,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'manifest', 'nant']",0.8806219100952148,Trintignan (acteur)
+661,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'bertrand', 'cantat']",0.8326895833015442,Trintignan (acteur)
+662,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'prison', 'vilniu']",0.880618691444397,Trintignan (acteur)
+663,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'bertrand', 'cantat']",0.880621075630188,Trintignan (acteur)
+664,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'temoignag']",0.8605960011482239,Trintignan (acteur)
+665,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'manifest', 'montpelli']",0.8327069282531738,Trintignan (acteur)
+666,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'mari', 'trintign']",0.8806185126304626,Trintignan (acteur)
+667,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'toujour', 'journal', 'femm']",0.8327033519744873,Trintignan (acteur)
+668,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'bertrand', 'cantat', 'detroit']",0.8806233406066895,Trintignan (acteur)
+669,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'krisztina', 'radi']",0.8327062726020813,Trintignan (acteur)
+670,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'mari', 'trintign', 'civier']",0.8327061533927917,Trintignan (acteur)
+671,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'jardin', 'mari', 'trintign']",0.880622386932373,Trintignan (acteur)
+672,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'bertrand', 'cantat']",0.5852513313293457,Trintignan (acteur)
+673,"['journaldesfemm', 'peopl', 'magazin', 'cantat', 'trintign', 'famil', 'mari', 'trintign']",0.8806238174438477,Trintignan (acteur)
+674,"['linternaut', 'bricolag', 'magazin', 'produit', 'detach', 'vont', 'vou', 'surprendr', 'laurier']",0.8327049612998962,Trintignan (acteur)
+675,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'cancer', 'phase', 'phase', 'terminal']",0.8806224465370178,Trintignan (acteur)
+676,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'cancer', 'pancrea', 'symptom', 'phase', 'terminal']",0.8806225657463074,Trintignan (acteur)
+677,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'vertig', 'nause', 'douleur', 'cervical']",0.880623459815979,Trintignan (acteur)
+678,"['sant', 'medecin', 'journaldesfemm', 'nevralgi', 'cervico', 'brachial', 'sciatiqu', 'cou', 'symptom', 'traitement']",0.8806220293045044,Trintignan (acteur)
+679,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'mercredi', 'prochain']",0.4679122269153595,cuisine
+680,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'jeudi']",0.8596640229225159,gossip
+681,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'mercredi']",0.6114434003829956,santé/symptomes
+682,"['journaldunet', 'patrimoin', 'guid', 'financ', 'personnel', 'alloc', 'soutien', 'famili', 'dure', 'montant', 'beneficiair']",0.8319655656814575,santé/symptomes
+683,"['decor', 'journaldesfemm', 'forum', 'affich', 'comment', 'recuper', 'ling', 'blanc', 'devenu', 'rose', 'lor', 'lessiv']",0.8326231241226196,santé/symptomes
+684,"['commentcamarch', 'forum', 'affich', 'excel', 'copier', 'valeur', 'ver', 'autr', 'page']",0.895380973815918,météo
+685,"['meteoconsult', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'nime']",0.8807386159896851,météo
+686,"['droit', 'financ', 'commentcamarch', 'content', 'pac', 'pact', 'civil', 'solidarit', 'comment', 'pacser']",0.8807368278503418,météo
+687,"['droit', 'financ', 'commentcamarch', 'convent', 'pac', 'model']",0.7437741756439209,emploi/finance
+688,"['droit', 'financ', 'commentcamarch', 'content', 'ruptur', 'pac', 'formalit']",0.7904545664787292,cuisine
+689,"['sant', 'medecin', 'journaldesfemm', 'courb', 'temperatur', 'determin', 'date', 'ovul']",0.7909812331199646,cuisine
+690,"['sant', 'medecin', 'journaldesfemm', 'ovul', 'calcul', 'date', 'ovul', 'facil']",0.8807719945907593,météo
+691,"['sant', 'medecin', 'journaldesfemm', 'tomber', 'enceint', 'rapid']",0.8607767820358276,emploi/finance
+692,"['sant', 'medecin', 'journaldesfemm', 'peau', 'pele', 'symptom', 'traitement', 'prevent']",0.83290696144104,emploi/finance
+693,"['commentcamarch', 'creer', 'adress', 'hotmail']",0.8329853415489197,emploi/finance
+694,"['droit', 'financ', 'commentcamarch', 'forum', 'affich', 'responsabilit', 'civil', 'telephon', 'mobil']",0.7905800938606262,santé/symptomes
+695,"['madam', 'lefigaro', 'societ', 'plier', 'vetement', 'method', 'mari', 'kondo']",0.831925630569458,santé/symptomes
+696,"['etudi', 'lefigaro', 'articl', 'cett', 'bachelier', 'vue', 'retir', 'bac', 'caus', 'erreur', 'notat', 'bca', 'aea']",0.7208942770957947,Trintignan (acteur)
+697,"['commentcamarch', 'download', 'telecharg', 'whatsapp', 'messeng']",0.8326333165168762,santé/symptomes
+698,"['droit', 'financ', 'commentcamarch', 'preavi', 'depart', 'locat', 'model']",0.5814474821090698,cuisine
+699,"['madam', 'lefigaro', 'societ', 'alcool', 'grossess', 'vrai', 'faux']",0.860249400138855,emploi/finance
+700,"['premium', 'lefigaro', 'societ', 'artfig', 'air', 'franc', 'verit', 'salair', 'personnel', 'navig']",0.7903309464454651,Trintignan (acteur)
+701,"['lefigaro', 'actualit', 'franc', 'artfig', 'franc', 'macon', 'alexandr', 'benalla', 'suspendu', 'loge']",0.7905303835868835,santé/symptomes
+702,"['lachainemeteo', 'synthes', 'previs', 'meteo', 'lyon']",0.7911869287490845,cuisine
+703,"['lefigaro', 'conjonctur', 'artfig', 'ormuz', 'detroit', 'iran', 'menac', 'bloquer']",0.880500078201294,emploi/finance
+704,"['jeux', 'gratuit', 'jeux', 'multijoueur']",0.7207991480827332,gossip
+705,"['jeux', 'gratuit', 'jeu', 'uno', 'disco', 'multijoueur']",0.48436930775642395,Trintignan (acteur)
+706,"['ticketac', 'theatr', 'avignon', 'htm']",0.8599666357040405,météo
+707,"['cuisin', 'journaldesfemm', 'recett', 'terrin', 'thon', 'courgett']",0.7913283109664917,météo
+708,"['sant', 'lefigaro', 'articl', 'pourquoi', 'dort', 'moin', 'vieilliss']",0.721280574798584,gossip
+709,"['madam', 'lefigaro', 'beaut', 'facon', 'dobtenir', 'ondul', 'wavi']",0.7913073897361755,cuisine
+710,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'biarritz', 'aujourdhui']",0.791329026222229,cuisine
+711,"['codespromo', 'lefigaro', 'code', 'promo', 'showroompr']",0.1666666716337204,Trintignan (acteur)
+712,"['journaldunet', 'economi', 'distribut', 'sold', 'date', 'sold', 'pre', 'chez', 'vou', 'reglement']",0.790732741355896,cuisine
+713,"['lefigaro', 'sortir', 'pari', 'artfig', 'club', 'plu', 'convoit', 'capital']",0.42089688777923584,Trintignan (acteur)
+714,"['droit', 'financ', 'commentcamarch', 'delai', 'retract', 'droit', 'acheteur']",0.5821362137794495,gossip
+715,"['sant', 'lefigaro', 'actualit', 'comment', 'reconnaitr', 'phlebit']",0.8956668376922607,météo
+716,"['droit', 'financ', 'commentcamarch', 'content', 'annul', 'retard', 'vol', 'indemnit', 'reclam']",0.7914086580276489,météo
+717,"['lefigaro', 'automobil', 'artfig', 'palmar', 'voitur', 'plu', 'fiabl']",0.8316968083381653,santé/symptomes
+718,"['immobili', 'lefigaro', 'articl', 'tax', 'foncier', 'ell', 'envol', 'fin', 'tax', 'habit', 'dff']",0.43869802355766296,météo
+719,"['journaldunet', 'manag', 'guid', 'manag', 'bon', 'command', 'model', 'gratuit']",0.8329350352287292,emploi/finance
+720,"['droit', 'financ', 'commentcamarch', 'livret', 'taux', 'interet', 'plafond']",0.7904326915740967,santé/symptomes
+721,"['droit', 'financ', 'commentcamarch', 'content', 'fiscalit', 'contrat', 'assur', 'vie']",0.8608763217926025,emploi/finance
+722,"['droit', 'financ', 'commentcamarch', 'content', 'imposit', 'rachat', 'partiel', 'total', 'assur', 'vie']",0.4327399432659149,santé/symptomes
+723,"['droit', 'financ', 'commentcamarch', 'assur', 'vie', 'palmar', 'rendement']",0.8319900631904602,Trintignan (acteur)
+724,"['droit', 'financ', 'commentcamarch', 'assur', 'vie', 'macron', 'fiscalit', 'reform']",0.6838786602020264,santé/symptomes
+725,"['lefigaro', 'politiqu', 'scan', 'artfig', 'affair', 'benalla', 'depute', 'yael', 'braun', 'pivet', 'depos', 'plaint', 'injur', 'menac']",0.791079580783844,emploi/finance
+726,"['codespromo', 'lefigaro', 'code', 'promo', 'gaumont', 'path']",0.8607531785964966,emploi/finance
+727,"['immobili', 'lefigaro', 'articl', 'immobili', 'troi', 'arnaqu', 'imposs', 'pourtant', 'bien', 'reell', 'add', 'afea']",0.8607507944107056,emploi/finance
+728,"['codespromo', 'lefigaro', 'code', 'promo', 'cellublu']",0.8328153491020203,emploi/finance
+729,"['linternaut', 'vill', 'index', 'vill']",0.8603614568710327,emploi/finance
+730,"['boutiqu', 'lefigaro', 'abonn', 'figaro', 'histoir', 'livr']",0.7008584141731262,gossip
+731,"['deco', 'journaldesfemm', 'couleur', 'cuisin', 'blanch', 'cuisin', 'blanch', 'grise']",0.7914100289344788,météo
+732,"['deco', 'journaldesfemm', 'couleur', 'cuisin', 'blanch']",0.8325644731521606,Trintignan (acteur)
+733,"['lefigaro', 'conjonctur']",0.7914074063301086,météo
+734,"['kiosqu', 'lefigaro', 'figaro']",0.7905881404876709,météo
+735,"['commentcamarch', 'forum', 'affich', 'contact', 'technicien', 'franc', 'telecom']",0.1666666716337204,Trintignan (acteur)
+736,"['droit', 'financ', 'commentcamarch', 'content', 'resili', 'bail', 'proprietair', 'locat']",0.8603202700614929,météo
+737,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'prise', 'sang', 'peut', 'ell', 'decel', 'cancer']",0.7900060415267944,météo
+738,"['copainsdav', 'linternaut', 'game', 'plai', 'artilleri']",0.5831945538520813,gossip
+739,"['actu', 'lachainemeteo', 'actualit', 'meteo', 'tendanc', 'meteo', 'jusquau', 'aout', 'ver', 'fort', 'chaleur']",0.1666666716337204,Trintignan (acteur)
+740,"['actu', 'lachainemeteo', 'actualit', 'meteo', 'previs', 'saisonnier', 'suit', 'lete', 'automn']",0.6492281556129456,cuisine
+741,"['lefigaro', 'intern', 'artfig', 'russi', 'derout', 'virag', 'trump']",0.8608585596084595,emploi/finance
+742,"['droit', 'financ', 'commentcamarch', 'piscin', 'impot', 'quell', 'tax']",0.6936278343200684,santé/symptomes
+743,"['cuisin', 'journaldesfemm', 'recett', 'salad', 'nicois']",0.7214946746826172,cuisine
+744,"['cuisin', 'journaldesfemm', 'recett', 'taboul']",0.5999948978424072,météo
+745,"['marin', 'meteoconsult', 'meteo', 'marin', 'meteo', 'abord', 'port', 'ocean', 'atlantiqu', 'previs', 'meteo', 'turbal']",0.8602683544158936,météo
+746,"['copainsdav', 'linternaut', 'glossari', 'etabliss', 'lyce']",0.7896021008491516,cuisine
+747,"['copainsdav', 'linternaut', 'glossari', 'etabliss', 'lyce']",0.8321752548217773,emploi/finance
+748,"['lachainemeteo', 'meteo', 'mond', 'pai', 'previs', 'meteo', 'espagn', 'aujourdhui']",0.7210822105407715,météo
+749,"['sant', 'medecin', 'journaldesfemm', 'glaucom', 'symptom', 'traitement']",0.7210878729820251,météo
+750,"['leconjugueur', 'lefigaro', 'frexochoix']",0.9165146946907043,météo
+751,"['madam', 'lefigaro', 'societ', 'formul', 'bannir', 'fin', 'mail']",0.7214956879615784,cuisine
+752,"['sport', 'lefigaro', 'basket']",0.721498966217041,cuisine
+753,"['madam', 'lefigaro']",0.714643120765686,météo
+754,"['madam', 'lefigaro', 'cuisin']",0.8326387405395508,santé/symptomes
+755,"['droit', 'financ', 'commentcamarch', 'demand', 'parloir', 'prison', 'demarch']",0.582419216632843,cuisine
+756,"['droit', 'financ', 'commentcamarch', 'aid', 'juridictionnel', 'barem', 'condit']",0.6589885354042053,santé/symptomes
+757,"['droit', 'financ', 'commentcamarch', 'anne', 'blanch', 'san', 'impot', 'prelev', 'sourc']",0.5821734070777893,santé/symptomes
+758,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'frais']",0.5821361541748047,gossip
+759,"['cuisin', 'journaldesfemm', 'gastronomi', 'recett', 'clafouti', 'clafouti', 'abricot', 'pistach', 'lait', 'amand']",0.6973914504051208,météo
+760,"['cuisin', 'journaldesfemm', 'gastronomi', 'recett', 'clafouti', 'clafouti', 'pech']",0.8329616189002991,emploi/finance
+761,"['cuisin', 'journaldesfemm', 'gastronomi', 'savez', 'vou', 'aliment', 'vont', 'pa', 'frigo', 'toujour', 'journal', 'femm']",0.513405978679657,cuisine
+762,"['cuisin', 'journaldesfemm', 'gastronomi', 'recett', 'clafouti', 'clafouti', 'sale', 'mediterraneen']",0.4847506582736969,cuisine
+763,"['lefigaro', 'flash', 'actu', 'filwww', 'core', 'nord', 'fabriquerait', 'nouveaux', 'missil']",0.9071774482727051,cuisine
+764,"['droit', 'financ', 'commentcamarch', 'loi', 'hamon', 'vent', 'distanc', 'internet', 'retract']",0.7907160520553589,cuisine
+765,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'zodiaqu', 'scorpion', 'demain']",0.7907124757766724,cuisine
+766,"['marin', 'meteoconsult', 'meteo', 'marin', 'marin', 'cotier', 'franc', 'previs', 'meteo', 'zone', 'cann', 'menton']",0.5719118118286133,cuisine
+767,"['marin', 'meteoconsult', 'meteo', 'marin', 'marin', 'cotier', 'franc', 'previs', 'meteo', 'zone', 'cann', 'menton']",0.7906923890113831,cuisine
+768,"['marin', 'meteoconsult', 'meteo', 'marin', 'marin', 'cotier', 'franc', 'previs', 'meteo', 'zone', 'cann', 'menton']",0.7904190421104431,Trintignan (acteur)
+769,"['commentcamarch', 'regard', 'match', 'foot', 'direct']",0.56866455078125,cuisine
+770,"['commentcamarch', 'telecharg', 'video', 'youtub', 'depui', 'votr', 'mobil', 'tablett', 'android']",0.8605532050132751,Trintignan (acteur)
+771,"['commentcamarch', 'forum', 'affich', 'oubli', 'mot', 'pass', 'gmail']",0.9161905646324158,météo
+772,"['lefigaro', 'langu', 'francais', 'express', 'francais', 'artfig', 'mot', 'arab', 'vou', 'prononcez', 'san', 'savoir']",0.9161827564239502,météo
+773,"['sant', 'medecin', 'journaldesfemm', 'pi', 'sec', 'callosit', 'caus', 'consequ', 'traitement']",0.9161900877952576,météo
+774,"['journaldesfemm', 'recherch']",0.5814437866210938,cuisine
+775,"['lefigaro', 'actualit', 'franc', 'artfig', 'pari', 'appel', 'etat', 'demantel', 'collineducrack']",0.7910143136978149,cuisine
+776,"['sant', 'medecin', 'journaldesfemm', 'clostridium', 'difficil', 'symptom', 'traitement']",0.8326422572135925,cuisine
+777,"['linternaut', 'cart', 'categori', 'anniversair', 'enfant', 'shtml']",0.483014315366745,cuisine
+778,"['linternaut', 'cart', 'categori', 'anniversair', 'shtml']",0.8325717449188232,santé/symptomes
+779,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'ovul', 'nidat', 'pert', 'rose']",0.1666666716337204,Trintignan (acteur)
+780,"['commentcamarch', 'import', 'export', 'email']",0.8595694303512573,météo
+781,"['droit', 'financ', 'commentcamarch', 'content', 'combien', 'temp', 'garder', 'papier', 'document']",0.8326139450073242,santé/symptomes
+782,"['lefigaro', 'voyag', 'artfig', 'raison', 'decouvrir', 'saint', 'pierr', 'miquelon', 'cet']",0.8597069978713989,santé/symptomes
+783,"['lefigaro', 'actualit', 'franc', 'artfig', 'redoin', 'faid', 'frere', 'confondu', 'adn', 'etaient', 'bien', 'sarcel']",0.8321953415870667,santé/symptomes
+784,"['lefigaro', 'intern', 'artfig', 'rapport', 'final', 'disparit', 'publi', 'lundi']",0.8320107460021973,santé/symptomes
+785,"['lefigaro', 'intern', 'artfig', 'famil', 'debarque', 'avion', 'caus', 'fil', 'autist']",0.5814499258995056,cuisine
+786,"['commentcamarch', 'download', 'diaporama']",0.832973062992096,emploi/finance
+787,"['cuisin', 'journaldesfemm', 'recett', 'pate', 'crepe']",0.7192736268043518,cuisine
+788,"['cuisin', 'journaldesfemm', 'recett', 'poulet', 'basquais']",0.8322067856788635,Trintignan (acteur)
+789,"['codespromo', 'lefigaro', 'code', 'promo', 'auchan']",0.7204281091690063,Trintignan (acteur)
+790,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'pert', 'liquid', 'transparent', 'comm', 'eau']",0.7905820608139038,Trintignan (acteur)
+791,"['lefigaro', 'scienc', 'artfig', 'cet', 'mar', 'exceptionnel', 'etoil', 'plu', 'brillant', 'ciel']",0.7215299606323242,cuisine
+792,"['linternaut', 'sortir', 'guid', 'loisir', 'eclips', 'lune', 'plu', 'bell', 'imag', 'lune', 'sang', 'mar']",0.7210918068885803,météo
+793,"['cadremploi', 'emploi', 'perso', 'recap']",0.7211000919342041,météo
+794,"['cadremploi', 'emploi', 'alert', 'email']",0.7914055585861206,météo
+795,"['cadremploi', 'emploi', 'perso', 'upload']",0.8320016264915466,santé/symptomes
+796,"['cadremploi', 'emploi', 'reinitialis', 'mdp']",0.7908459305763245,santé/symptomes
+797,"['cadremploi', 'emploi', 'oubli', 'mdp']",0.7900417447090149,santé/symptomes
+798,"['cadremploi', 'emploi', 'perso', 'accueil', 'alert']",0.7915987372398376,emploi/finance
+799,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'xl', 'medic', 'extra', 'fort']",0.79118812084198,emploi/finance
+800,"['jeux', 'gratuit', 'jeu', 'gratuit', 'gem']",0.7916008234024048,emploi/finance
+801,"['jeux', 'gratuit', 'jeu', 'sport', 'match']",0.7221313118934631,emploi/finance
+802,"['droit', 'financ', 'commentcamarch', 'forum', 'affich', 'delai', 'attent', 'permi', 'conduir']",0.7221312522888184,emploi/finance
+803,"['commentcamarch', 'telecharg', 'film', 'gratuit', 'legal']",0.833041250705719,emploi/finance
+804,"['leconjugueur', 'lefigaro', 'conjugaison', 'verb', 'envoy']",0.8319633603096008,santé/symptomes
+805,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'troy', 'aujourdhui']",0.8330747485160828,cuisine
+806,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'caen', 'aujourdhui']",0.6423076391220093,cuisine
+807,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'rochel', 'aujourdhui']",0.8602362275123596,emploi/finance
+808,"['commentcamarch', 'download', 'telecharg', 'pdfcreator']",0.791176438331604,cuisine
+809,"['cadremploi', 'emploi', 'perso', 'gestion', 'espac', 'perso']",0.7915170192718506,cuisine
+810,"['cadremploi', 'emploi']",0.8956703543663025,météo
+811,"['cadremploi', 'emploi', 'perso', 'accueil', 'candidatur']",0.8956667184829712,météo
+812,"['commentcamarch', 'localis', 'telephon', 'portabl']",0.8956665396690369,météo
+813,"['commentcamarch', 'download', 'telecharg', 'waze', 'android']",0.7911877632141113,cuisine
+814,"['lefigaro', 'intern', 'artfig', 'espagn', 'torero', 'scalp', 'taureau', 'plein', 'corrida']",0.8332814574241638,emploi/finance
+815,"['lefigaro', 'flash', 'actu', 'filwww', 'dinard', 'dece', 'enfant', 'ensev', 'sou', 'sabl']",0.7221313118934631,emploi/finance
+816,"['droit', 'financ', 'commentcamarch', 'dure', 'validit', 'examen', 'code']",0.8332695960998535,emploi/finance
+817,"['leconjugueur', 'lefigaro', 'conjugaison', 'verb', 'devoir']",0.5813304781913757,cuisine
+818,"['copainsdav', 'linternaut', 'tchat']",0.7911847829818726,cuisine
+819,"['droit', 'financ', 'commentcamarch', 'download', 'telecharg', 'formulair', 'demand', 'passeport', 'cerfa']",0.7203876972198486,Trintignan (acteur)
+820,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'mardi', 'prochain']",0.8603602647781372,Trintignan (acteur)
+821,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'lundi', 'prochain']",0.8324322700500488,emploi/finance
+822,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'vendredi', 'prochain']",0.7915171384811401,cuisine
+823,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'zodiaqu', 'gemeaux']",0.7215059399604797,cuisine
+824,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'zodiaqu', 'gemeaux', 'jour']",0.5313732624053955,emploi/finance
+825,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'zodiaqu', 'gemeaux', 'semain']",0.8953673243522644,météo
+826,"['lachainemeteo', 'meteo', 'royaum', 'uni', 'vill', 'previs', 'meteo', 'londr', 'aujourdhui']",0.8953680992126465,météo
+827,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'renault', 'captur', 'euro']",0.8953825831413269,météo
+828,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'renault', 'kadjar', 'euro']",0.8328260779380798,gossip
+829,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'peugeot', 'euro']",0.8607357144355774,gossip
+830,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'toujour', 'linternaut']",0.8604809045791626,Trintignan (acteur)
+831,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'renault', 'megan', 'euro']",0.8807786703109741,météo
+832,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'peugeot', 'euro']",0.9303296208381653,Trintignan (acteur)
+833,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'citroen', 'euro']",0.9303317070007324,Trintignan (acteur)
+834,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'dacia', 'sandero', 'euro']",0.92397540807724,Trintignan (acteur)
+835,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'renault', 'twingo', 'euro']",0.9239181280136108,Trintignan (acteur)
+836,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'renault', 'clio', 'euro']",0.9303222298622131,Trintignan (acteur)
+837,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'peugeot', 'euro']",0.9239754676818848,Trintignan (acteur)
+838,"['linternaut', 'auto', 'magazin', 'lld', 'loa', 'valent', 'ell', 'vraiment', 'coup', 'citroen', 'picasso', 'euro']",0.9239694476127625,Trintignan (acteur)
+839,"['cuisin', 'journaldesfemm', 'recett', 'confitur', 'frambois']",0.923970103263855,Trintignan (acteur)
+840,"['codespromo', 'lefigaro', 'code', 'promo', 'kiabi']",0.9303311705589294,Trintignan (acteur)
+841,"['droit', 'financ', 'commentcamarch', 'achat', 'vehicul', 'neuf', 'vo', 'droit']",0.9303320050239563,Trintignan (acteur)
+842,"['sant', 'medecin', 'journaldesfemm', 'protein', 'reactiv', 'crp', 'analys', 'sang']",0.9239749908447266,Trintignan (acteur)
+843,"['sant', 'medecin', 'journaldesfemm', 'dimer', 'dosag', 'sanguin']",0.9239690899848938,Trintignan (acteur)
+844,"['commentcamarch', 'forum', 'affich', 'comment', 'mettr', 'cedil', 'majuscul']",0.7210996150970459,météo
+845,"['madam', 'lefigaro', 'astro', 'horoscop', 'quotidien', 'cancer']",0.7914066910743713,météo
+846,"['madam', 'lefigaro', 'astro']",0.6612806916236877,emploi/finance
+847,"['droit', 'financ', 'commentcamarch', 'forum', 'affich', 'mandatair', 'immobili', 'quel', 'reseau']",0.7208536863327026,Trintignan (acteur)
+848,"['linternaut', 'sortir', 'guid', 'loisir', 'nuit', 'etoil', 'observ', 'date']",0.7208873629570007,Trintignan (acteur)
+849,"['madam', 'lefigaro', 'enfant', 'montessori', 'facon', 'lappliqu', 'maison', 'enfant']",0.8324804902076721,cuisine
+850,"['madam', 'lefigaro', 'astro', 'horoscop', 'mensuel', 'balanc']",0.8330506086349487,gossip
+851,"['madam', 'lefigaro', 'astro', 'horoscop', 'quotidien', 'balanc']",0.7218852043151855,gossip
+852,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'man', 'aujourdhui']",0.7204176187515259,emploi/finance
+853,"['commentcamarch', 'forum', 'affich', 'appel', 'numero']",0.7900626063346863,santé/symptomes
+854,"['cuisin', 'journaldesfemm', 'recett', 'tart', 'myrtil']",0.654676616191864,emploi/finance
+855,"['copainsdav', 'linternaut']",0.7913566827774048,gossip
+856,"['sant', 'medecin', 'journaldesfemm', 'content', 'dosag', 'beta', 'hcg', 'interpret', 'facil', 'resultat']",0.7913568615913391,gossip
+857,"['cuisin', 'journaldesfemm', 'recett', 'terrin', 'courgett']",0.8956703543663025,météo
+858,"['lefigaro', 'politiqu', 'artfig', 'yael', 'braun', 'pivet', 'accule', 'critiqu', 'tout', 'part']",0.7909867763519287,cuisine
+859,"['client', 'lefigaro', 'webloggialefigaro', 'espacecli', 'afficherinitialis']",0.5084455609321594,météo
+860,"['leconjugueur', 'lefigaro', 'conjugaison', 'verb', 'fair']",0.7214779257774353,cuisine
+861,"['sant', 'lefigaro', 'sant', 'maladi', 'schizophreni', 'quest', 'cest']",0.831282377243042,Trintignan (acteur)
+862,"['journaldunet', 'patrimoin', 'financ', 'personnel', 'aid', 'auxquel', 'vou', 'peut', 'etr', 'doit', 'san', 'savoir', 'garanti', 'jeun']",0.7907336950302124,cuisine
+863,"['journaldunet', 'patrimoin', 'financ', 'personnel', 'aid', 'auxquel', 'vou', 'peut', 'etr', 'doit', 'san', 'savoir', 'chequ', 'energi']",0.721182644367218,gossip
+864,"['journaldunet', 'patrimoin', 'financ', 'personnel', 'aid', 'auxquel', 'vou', 'peut', 'etr', 'doit', 'san', 'savoir', 'eau']",0.1666666716337204,Trintignan (acteur)
+865,"['journaldunet', 'patrimoin', 'financ', 'personnel', 'aid', 'auxquel', 'vou', 'peut', 'etr', 'doit', 'san', 'savoir']",0.8330951929092407,cuisine
+866,"['journaldunet', 'patrimoin', 'financ', 'personnel', 'aid', 'auxquel', 'vou', 'peut', 'etr', 'doit', 'san', 'savoir', 'solidarit']",0.7906153798103333,santé/symptomes
+867,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'toulous', 'aujourdhui']",0.9355664849281311,cuisine
+868,"['commentcamarch', 'download', 'telecharg', 'adblock', 'plu', 'chrome']",0.9355684518814087,cuisine
+869,"['commentcamarch', 'download', 'extens']",0.9355647563934326,cuisine
+870,"['sant', 'medecin', 'journaldesfemm', 'syndrom', 'jamb', 'san', 'repo', 'impati', 'dan', 'jamb']",0.9355661273002625,cuisine
+871,"['droit', 'financ', 'commentcamarch', 'forum', 'affich', 'retract', 'apr', 'signatur', 'bail']",0.9355676770210266,cuisine
+872,"['linternaut', 'actualit', 'guid', 'vie', 'quotidienn', 'messag', 'anniversair', 'model', 'text', 'anniversair']",0.8956635594367981,météo
+873,"['copainsdav', 'linternaut', 'album']",0.6537142395973206,cuisine
+874,"['copainsdav', 'linternaut', 'edit', 'gener', 'profil', 'leasur']",0.7215399742126465,cuisine
+875,"['copainsdav', 'linternaut', 'relat', 'list', 'wait']",0.5699893832206726,Trintignan (acteur)
+876,"['commentcamarch', 'comment', 'fair', 'captur', 'ecran', 'screenshot', 'sou', 'window']",0.8799014687538147,emploi/finance
+877,"['cuisin', 'journaldesfemm', 'recett', 'gateau', 'chocolat', 'fondant']",0.9063456654548645,santé/symptomes
+878,"['journaldunet', 'manag', 'guid', 'manag', 'lettr', 'motiv', 'conseil', 'exempl', 'type']",0.7214971780776978,cuisine
+879,"['journaldunet', 'manag', 'guid', 'manag', 'lettr', 'motiv', 'dan', 'restaur', 'rapid', 'macdonald', 'kfc', 'quick']",0.7214826941490173,cuisine
+880,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'zodiaqu', 'scorpion', 'jour']",0.7902198433876038,cuisine
+881,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'zodiaqu', 'balanc', 'jour']",0.6604219675064087,cuisine
+882,"['lefigaro', 'intern']",0.721066415309906,météo
+883,"['keljob', 'espac', 'candidat', 'creation', 'compt']",0.9069338440895081,emploi/finance
+884,"['keljob', 'espac', 'candidat', 'connexion']",0.7340810894966125,emploi/finance
+885,['keljob'],0.8607271909713745,gossip
+886,"['keljob', 'espac', 'candidat']",0.8607531189918518,gossip
+887,"['sant', 'medecin', 'journaldesfemm', 'hepatomegali', 'symptom', 'traitement']",0.5816217064857483,Trintignan (acteur)
+888,"['droit', 'financ', 'commentcamarch', 'prime', 'naissanc', 'montant']",0.5824592709541321,santé/symptomes
+889,"['droit', 'financ', 'commentcamarch', 'model', 'lettr', 'naissanc', 'demand', 'cong', 'paternit']",0.5824798941612244,santé/symptomes
+890,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'chinoi', 'cheval', 'jour']",0.5824131369590759,santé/symptomes
+891,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'chinoi', 'cheval', 'semain']",0.5824825167655945,santé/symptomes
+892,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'chinoi', 'cheval', 'demain']",0.8326471447944641,santé/symptomes
+893,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'chinoi', 'cheval']",0.8329826593399048,emploi/finance
+894,"['sant', 'journaldesfemm', 'psychologi', 'horoscop', 'chinoi', 'cheval', 'semain', 'prochain']",0.8807052969932556,emploi/finance
+895,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'mal', 'jamb', 'nuit']",0.880362868309021,Trintignan (acteur)
+896,"['etudi', 'lefigaro', 'articl', 'valentin', 'fameux', 'galerien', 'parcoursup', 'bac', 'mention', 'an', 'aaebd', 'cffd']",0.8806520104408264,Trintignan (acteur)
+897,"['journaldesfemm', 'peopl', 'magazin', 'info', 'scoop', 'star', 'photo', 'camil', 'raymond', 'premier', 'baiser']",0.8807043433189392,Trintignan (acteur)
+898,"['droit', 'financ', 'commentcamarch', 'forum', 'affich', 'validit', 'passeport', 'apr', 'expir']",0.8607825040817261,Trintignan (acteur)
+899,"['linternaut', 'encyclopedi', 'recherch']",0.8955395221710205,Trintignan (acteur)
+900,"['linternaut', 'dictionnair']",0.8320012092590332,santé/symptomes
+901,"['bricolag', 'linternaut', 'forum', 'affich', 'eau', 'piscin', 'devenu', 'vert']",0.7206246852874756,santé/symptomes
+902,"['lefigaro', 'politiqu', 'scan', 'artfig', 'badg', 'benalla', 'majorit', 'veut', 'trouver', 'taup', 'assemble']",0.8316662907600403,météo
+903,"['commentcamarch', 'download', 'telecharg', 'deezer']",0.8799089193344116,emploi/finance
+904,"['viadeo', 'set', 'email']",0.5812239646911621,cuisine
+905,"['viadeo', 'addressbook', 'managemydetail']",0.5811822414398193,cuisine
+906,"['viadeo', 'hub', 'listehub']",0.46815094351768494,cuisine
+907,"['commentcamarch', 'forum', 'affich', 'comment', 'ajout', 'contact', 'dan', 'boit', 'messageri', 'gmail']",0.860083281993866,gossip
+908,"['jeux', 'gratuit', 'jeu', 'uno', 'cart']",0.7911882400512695,cuisine
+909,"['cuisin', 'journaldesfemm', 'recett', 'tartar', 'saumon']",0.5824810266494751,gossip
+910,"['commentcamarch', 'download', 'telecharg', 'photoshop']",0.5825234055519104,gossip
+911,"['commentcamarch', 'equival', 'photoshop', 'gratuit']",0.5825128555297852,gossip
+912,"['commentcamarch', 'download', 'telecharg', 'logo', 'design', 'studio']",0.8604235649108887,cuisine
+913,"['meteoconsult', 'synthes', 'previs', 'meteo']",0.8330613970756531,cuisine
+914,"['meteoconsult', 'meteo', 'franc', 'previs', 'meteo', 'franc']",0.7210993766784668,météo
+915,"['droit', 'financ', 'commentcamarch', 'content', 'revenu', 'exoner', 'impot', 'prime', 'alloc', 'indemnit']",0.7911903858184814,cuisine
+916,"['droit', 'financ', 'commentcamarch', 'forum', 'affich', 'vendr', 'voitur', 'piec', 'san', 'control', 'techniqu']",0.721521258354187,cuisine
+917,"['droit', 'financ', 'commentcamarch', 'quel', 'document', 'vendr', 'voitur']",0.7911874055862427,cuisine
+918,"['marin', 'meteoconsult', 'meteo', 'marin', 'meteo', 'abord', 'port', 'mer', 'mediterrane', 'previs', 'meteo', 'calvi']",0.7913719415664673,météo
+919,"['sant', 'medecin', 'journaldesfemm', 'chevil', 'gonfle', 'symptom', 'caus', 'traitement']",0.8807510137557983,météo
+920,"['journaldesfemm', 'peopl']",0.895440936088562,emploi/finance
+921,"['droit', 'financ', 'commentcamarch', 'cart', 'grise', 'lign', 'comment', 'fair', 'demand']",0.5487449765205383,emploi/finance
+922,"['cuisin', 'journaldesfemm', 'recett', 'tiramisu', 'frais']",0.8608012795448303,emploi/finance
+923,"['immobili', 'lefigaro', 'annonc']",0.9165142178535461,météo
+924,"['propriet', 'lefigaro', 'annonc', 'immobili', 'girond', 'aquitain', 'franc']",0.8605942726135254,santé/symptomes
+925,"['cadremploi', 'editori', 'conseil', 'conseil', 'carrier', 'articl', 'raccourcir', 'votr', 'preavi', 'partir', 'octobr', 'astuc', 'marchent']",0.5795425176620483,gossip
+926,"['cadremploi', 'editori', 'conseil', 'droit', 'travail', 'articl', 'certificat', 'travail']",0.8952396512031555,emploi/finance
+927,"['keljob', 'articl', 'document', 'peut', 'vou', 'demand', 'entretien', 'embauch']",0.7211006879806519,météo
+928,"['commentcamarch', 'forum', 'affich', 'compar', 'list', 'colonn', 'excel']",0.5830235481262207,Trintignan (acteur)
+929,"['jeux', 'gratuit', 'jeu', 'gamepoint', 'bingo']",0.7204532623291016,Trintignan (acteur)
+930,"['commentcamarch', 'rame', 'comment', 'nettoy']",0.8805111646652222,emploi/finance
+931,"['commentcamarch', 'download', 'telecharg', 'ccleaner']",0.696261465549469,emploi/finance
+932,"['commentcamarch', 'download', 'nettoyag']",0.8948884010314941,santé/symptomes
+933,"['premium', 'lefigaro', 'actualit', 'franc', 'artfig', 'popul', 'musulman', 'progress', 'franc', 'europ']",0.832268476486206,cuisine
+934,"['sant', 'medecin', 'journaldesfemm', 'boul', 'sou', 'teton', 'chez', 'adolesc']",0.7913219928741455,cuisine
+935,"['journaldunet', 'solut', 'dsi', 'microsoft', 'offic', 'sou', 'tout', 'coutur']",0.7209206223487854,emploi/finance
+936,"['droit', 'financ', 'commentcamarch', 'content', 'sarl', 'statut', 'societ', 'responsabilit', 'limite']",0.7911860346794128,cuisine
+937,"['ticketac', 'sall', 'list']",0.7215371131896973,cuisine
+938,"['droit', 'financ', 'commentcamarch', 'indemnit', 'ruptur', 'conventionnel', 'calcul']",0.8599503636360168,Trintignan (acteur)
+939,"['commentcamarch', 'download', 'strategi', 'temp', 'reeel']",0.8324605822563171,Trintignan (acteur)
+940,"['commentcamarch', 'download', 'telecharg', 'minecraft']",0.721107006072998,santé/symptomes
+941,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'anneci', 'aujourdhui']",0.8605227470397949,emploi/finance
+942,"['lefigaro', 'actualit', 'franc', 'artfig', 'violenc', 'conjugal', 'femm', 'meurt', 'tou', 'jour', 'homm', 'tou', 'jour']",0.5819098949432373,emploi/finance
+943,"['madam', 'lefigaro', 'societ', 'lequip', 'violenc', 'conjugal', 'temoignag', 'sou', 'compagn', 'dun', 'footballeur', 'professionnel']",0.8608497381210327,emploi/finance
+944,"['cuisin', 'journaldesfemm', 'recett', 'moussaka', 'leger']",0.7215350270271301,cuisine
+945,"['journaldunet', 'patrimoin', 'guid', 'financ', 'personnel', 'declar', 'lign', 'obligatoir']",0.7911924719810486,cuisine
+946,"['madam', 'lefigaro', 'societ', 'temoignag', 'agress', 'sexuel', 'marg', 'victoir', 'franc', 'final', 'coup', 'mond', 'footbal']",0.8956702351570129,météo
+947,"['lefigaro', 'actualit', 'franc', 'artfig', 'loi', 'asil', 'immigr', 'exercic', 'funambulism']",0.84447181224823,gossip
+948,"['sant', 'medecin', 'journaldesfemm', 'piqur', 'guep', 'abeil', 'fair']",0.7901237607002258,Trintignan (acteur)
+949,"['droit', 'financ', 'commentcamarch', 'resili', 'mutuel', 'model', 'lettr', 'resili', 'mutuel']",0.721062958240509,météo
+950,"['droit', 'financ', 'commentcamarch', 'content', 'recept', 'travaux']",0.8600859045982361,santé/symptomes
+951,"['cuisin', 'journaldesfemm', 'recett', 'pate', 'brise', 'classiqu']",0.7291120290756226,gossip
+952,"['lefigaro', 'politiqu', 'scan', 'artfig', 'velo', 'elliptiqu', 'materiel', 'raclett', 'rugi', 'cabinet', 'epingl', 'plusieur', 'depens']",0.8312376141548157,santé/symptomes
+953,"['immobili', 'lefigaro', 'articl', 'escroc', 'sou', 'loue', 'simultan', 'personn', 'meme', 'studio', 'aecf', 'ebbc']",0.7906246185302734,Trintignan (acteur)
+954,"['sant', 'medecin', 'journaldesfemm', 'forum', 'affich', 'phase', 'cancer', 'veut', 'dire', 'quoi']",0.8608022928237915,emploi/finance
+955,"['sport', 'lefigaro', 'footbal']",0.8329850435256958,emploi/finance
+956,['cplussur'],0.7210968732833862,météo
+957,"['sant', 'lefigaro', 'articl', 'anevrism', 'cerebr', 'quel', 'sign', 'doivent', 'alert']",0.7911372780799866,gossip
+958,"['bricolag', 'linternaut', 'forum', 'affich', 'comment', 'enlev', 'tach', 'moisissur', 'matela']",0.790166974067688,Trintignan (acteur)
+959,"['lachainemeteo', 'meteo', 'franc', 'vill', 'previs', 'meteo', 'tour', 'aujourdhui']",0.8597000241279602,gossip
+960,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'samedi', 'prochain']",0.7212873697280884,météo
+961,"['lachainemeteo', 'meteo', 'franc', 'previs', 'meteo', 'franc', 'dimanch', 'prochain']",0.1666666716337204,Trintignan (acteur)
+962,"['jeux', 'gratuit', 'jeu', 'jewel', 'academi']",0.8321067094802856,Trintignan (acteur)
+963,"['jeux', 'gratuit', 'jeu', 'gratuit', 'atlanti']",0.48432889580726624,santé/symptomes
+964,"['commentcamarch', 'download', 'captur', 'ecran']",0.8956637382507324,météo
+965,"['droit', 'financ', 'commentcamarch', 'retrait', 'autorit', 'parental']",0.8953792452812195,météo
+966,"['lefigaro', 'actualit', 'franc', 'artfig', 'fair', 'face', 'nid', 'guep']",0.8953677415847778,météo
+967,"['commentcamarch', 'forum', 'affich', 'reseau', 'wifi', 'connect', 'mai', 'pa', 'internet', 'smartphon']",0.7913124561309814,cuisine
+968,"['sant', 'lefigaro', 'actualit', 'arythmi', 'palpit', 'ell', 'sign', 'maladi', 'cardiaqu']",0.8330702185630798,cuisine
+969,"['droit', 'financ', 'commentcamarch', 'forum', 'affich', 'model', 'lettr', 'demand', 'emploi']",0.7215266227722168,cuisine
+970,"['journaldunet', 'manag', 'guid', 'manag', 'lettr', 'motiv', 'premier', 'emploi']",0.7911017537117004,emploi/finance
+971,"['sant', 'medecin', 'journaldesfemm', 'doppler', 'echo', 'doppler']",0.8600234985351562,Trintignan (acteur)
+972,"['commentcamarch', 'forum', 'affich', 'trouver', 'proprietair', 'partir', 'numero', 'telephon']",0.8607267141342163,cuisine
+973,"['cuisin', 'journaldesfemm', 'gastronomi', 'recett', 'courgett', 'duo', 'croqu', 'monsieur']",0.8325612545013428,santé/symptomes
+974,"['cuisin', 'journaldesfemm', 'gastronomi', 'recett', 'courgett']",0.9163544774055481,emploi/finance
+975,"['cuisin', 'journaldesfemm', 'gastronomi', 'recett', 'courgett', 'gaufr', 'courgett', 'thym', 'chavroux']",0.8952349424362183,emploi/finance
+976,"['cuisin', 'journaldesfemm', 'gastronomi', 'recett', 'courgett', 'galett', 'quinoa', 'courgett', 'serrano', 'chavroux']",0.7208756804466248,Trintignan (acteur)
+977,"['cuisin', 'journaldesfemm', 'gastronomi', 'recett', 'courgett', 'petit', 'quich', 'fromag', 'chevr', 'courgett', 'saumon', 'fume']",0.8328312635421753,cuisine
+978,"['cuisin', 'journaldesfemm', 'gastronomi', 'recett', 'courgett', 'mini', 'cake', 'courgett', 'pesto', 'chevr']",0.8327476978302002,cuisine
+979,"['droit', 'financ', 'commentcamarch', 'voyag', 'etrang', 'douan', 'tabac', 'alcool']",0.8327510356903076,cuisine
+980,"['cuisin', 'journaldesfemm', 'forum', 'affich', 'comment', 'conserv', 'compot', 'pomm']",0.8607223629951477,cuisine
+981,"['droit', 'financ', 'commentcamarch', 'download', 'telecharg', 'promess', 'embauch', 'model']",0.8607341647148132,cuisine
+982,"['droit', 'financ', 'commentcamarch', 'promess', 'embauch', 'model', 'lettr']",0.860733687877655,cuisine
+983,"['leconjugueur', 'lefigaro', 'conjugaison', 'verb', 'hesit', 'negat']",0.8607297539710999,cuisine
+984,"['commentcamarch', 'forum', 'affich', 'trouver', 'proprietair', 'numero']",0.832664430141449,emploi/finance
+985,"['commentcamarch', 'forum', 'affich', 'trouver', 'identit', 'numero', 'portabl']",0.8603975772857666,cuisine
+986,"['codespromo', 'lefigaro', 'code', 'promo', 'oui', 'sncf']",0.6341611742973328,emploi/finance
+987,"['linternaut', 'dictionnair', 'definit', 'exhaustif']",0.8806100487709045,emploi/finance
+988,"['leconjugueur', 'lefigaro', 'conjugaison', 'verb', 'appel']",0.791519045829773,cuisine
+989,"['sant', 'medecin', 'journaldesfemm']",0.8328284025192261,cuisine
+990,"['cuisin', 'journaldesfemm', 'recett', 'gateau', 'chocolat']",0.8328338861465454,cuisine
+991,"['journaldunet', 'patrimoin', 'guid', 'financ', 'personnel', 'apl', 'condit', 'demand', 'simul']",0.7914096117019653,météo
+992,"['droit', 'financ', 'commentcamarch', 'forum', 'affich', 'barem', 'apl']",0.7203530073165894,Trintignan (acteur)
+993,"['sant', 'medecin', 'journaldesfemm', 'cancer', 'palai', 'symptom', 'traitement']",0.7915152907371521,cuisine
+994,"['jeux', 'gratuit', 'jeux', 'enfant']",0.7208935618400574,Trintignan (acteur)
+995,"['journaldunet', 'patrimoin', 'guid', 'financ', 'personnel', 'attest', 'honneur', 'model']",0.721078097820282,météo
+996,"['linternaut', 'actualit', 'guid', 'vie', 'quotidienn', 'attest', 'honneur', 'lettr', 'type']",0.6567657589912415,emploi/finance
+997,"['linternaut', 'actualit', 'guid', 'vie', 'quotidienn', 'attest', 'heberg', 'model', 'lettr', 'type']",0.6518700122833252,cuisine
+998,"['commentcamarch', 'download']",0.5586650371551514,santé/symptomes
